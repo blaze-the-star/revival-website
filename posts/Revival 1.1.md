@@ -1,13 +1,10 @@
 ---
-title: "Revival: Awakening"
-date: 2025-12-05
+title: "Revival<br>Chapter 1 - Awakening"
+date: 2025-12-01
 permalink: /1/1
 ---
 
 <script nav src="/Revival/libs/process.js" next="/1/2"></script>
-
-# Revival
-## Chapter 1 - Awakening
 
 ### Dragged From the Deep
 
