@@ -11,19 +11,19 @@ window.onload = function() {
 	let prevLink = ``;
 	if (addNav.hasAttribute("prev")) {
 		let prev = addNav.getAttribute('prev')
-		let prevUrl = `/Revival/${prev}`.replace("/Revival//", "/Revival/");
+		let prevUrl = `/revival-website/${prev}`.replace("/revival-website//", "/revival-website/");
 		prevLink = `<a href='${prevUrl}'>&lt;&lt; Prev</a>`;
 	}
 
 	let nextLink = ``;
 	if (addNav.hasAttribute("next")) {
 		let next = addNav.getAttribute('next')
-		let nextUrl = `/Revival/${next}`.replace("/Revival//", "/Revival/");
+		let nextUrl = `/revival-website/${next}`.replace("/revival-website//", "/revival-website/");
 		nextLink = `<a href='${nextUrl}'>Next &gt;&gt;</a>`;
 	}
 
 	let links = prevLink
-		+ `<a href='/Revival/1/1'>First</a>`
+		+ `<a href='/revival-website/1/1'>First</a>`
 		+ nextLink
 	let nav = `<hr><center>${links}</center><hr>`;
 	
