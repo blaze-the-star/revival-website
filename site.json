@@ -1,0 +1,46 @@
+{
+  "title": "Revival",
+  "subtitle": "",
+  "baseUrl": "/Revival",
+  "owner": {
+    "name": "Blaze the Star",
+    "email": "startheblaze@gmail.com"
+  },
+  "navigation": {
+      "home":   {
+        "href": "/",
+        "class": "link-home",
+        "title": "See the full catalog!",
+        "body": "<img>"
+      },
+      "about": {
+        "href": "/about",
+        "class": "link-about-me",
+        "title": "Learn more about me and Revival!",
+        "body": "<img>"
+      }
+  },
+  "social": {
+      "email":   {
+        "href": "mailto:startheblaze@gmail.com",
+        "class": "link-email",
+        "title": "Send me an email!",
+        "target": "_blank",
+        "body": "<img>"
+      }
+  },
+  "newsletter": {
+  },
+  "seo": {
+    "title": "Revival",
+    "description": "DESC",
+    "author": "Blaze the Star",
+    "keywords": [
+      "blog",
+      "novel",
+      "short story",
+      "fantasy"
+    ]
+  },
+  "cname": "blaze-the-star.github.io"
+}

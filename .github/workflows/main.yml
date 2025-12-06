@@ -1,0 +1,21 @@
+name: 'gitbook-publish'
+on:
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Deploy
+        uses: GsLogiMaker/action-build-md-blog@master
+        with:
+          branch: gh-pages
