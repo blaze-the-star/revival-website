@@ -4,7 +4,7 @@ date: 2025-12-01
 permalink: /1/1
 ---
 
-<script nav src="/Revival/libs/process.js" next="/1/2"></script>
+<script nav src="/revival-website/libs/process.js" next="/1/2"></script>
 
 ### Dragged From the Deep  
 Joseph surfaced from sleep like he was dragged up through murky water—slow, groggy, barely conscious of the world he was returning to.  
