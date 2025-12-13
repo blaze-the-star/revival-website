@@ -12,7 +12,6 @@ Joseph woke to cold air threading through the seams of the tent.
 For a moment he didn’t know where he was.  
    
 Canvas above him.  
-  
 A blanket tangled around his legs.  
 The faint ache in his back from sleeping curled too tightly.  
 Then the smell of cedar and last night’s fire settled his thoughts, grounding him in the small clearing just outside Flint Water.  
