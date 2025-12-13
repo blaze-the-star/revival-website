@@ -874,17 +874,11 @@ h3 {
     position: sticky;
     right: 0px;
     left: 0px;
-    top: 0px;
+    top: 16px;
     margin: 0px;
     background-color: var(--night-nav-background);
     padding: 16px;
     border-radius: 96px;
-
-    margin-left: -100px;
-    padding-left: 108px;
-    margin-right: -100px;
-    padding-right: 108px;
-    margin-top: -16px;
 }
 .nav + * {
     margin-top: 1rem;
