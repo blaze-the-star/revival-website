@@ -799,25 +799,25 @@ pre .lineno {
     --night-nav-elmnt: var(--night-background);
     --night-nav-elmnt-hover: var(--night-text);
 
-    --email-icon: url(/revival-website/images/mail-icon.svg);
+    --email-icon: url(images/mail-icon.svg);
     --email-icon-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --email-bg-hover: red;
     --email-color: var(--email-bg-hover);
 
-    --devart-icon: url(/revival-website//images/deviantart-icon.svg);
+    --devart-icon: url(images/deviantart-icon.svg);
     --devart-icon-filter-hover: invert(69%) sepia(40%) saturate(2100%) hue-rotate(108deg) brightness(95%) contrast(102%);
     --devart-bg-hover: #00E59B;
     --devart-color: var(--devart-bg-hover);
 
-    --tumblr-icon: url(/revival-website//images/tumblr-icon.svg);
+    --tumblr-icon: url(images/tumblr-icon.svg);
     --tumblr-icon-filter-hover: invert(47%) sepia(93%) saturate(728%) hue-rotate(162deg) brightness(100%) contrast(109%);
     --tumblr-bg-hover: #00B8FF;
     --tumblr-color: var(--tumblr-bg-hover);
 
-    --home-icon: url(/revival-website//images/home-icon.svg);
+    --home-icon: url(images/home-icon.svg);
     --home-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(103%) contrast(101%);
 
-    --about-icon: url(/revival-website//images/about-me-icon.svg);
+    --about-icon: url(images/about-me-icon.svg);
     --about-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(103%) contrast(101%);
 }
 
@@ -835,25 +835,25 @@ blockquote p {
 /* Set font to Ubuntu */
 @font-face { /* Regular */
     font-family: 'Ubuntu';
-    src: url('/revival-website//fonts/ubuntu/Ubuntu-R.ttf') format('truetype');
+    src: url('fonts/ubuntu/Ubuntu-R.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face { /* Bold */
     font-family: 'Ubuntu';
-    src: url('/revival-website//fonts/ubuntu/Ubuntu-B.ttf') format('truetype');
+    src: url('fonts/ubuntu/Ubuntu-B.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 @font-face { /* Italic */
     font-family: 'Ubuntu';
-    src: url('/revival-website//fonts/ubuntu/Ubuntu-RI.ttf') format('truetype');
+    src: url('fonts/ubuntu/Ubuntu-RI.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 @font-face { /* Bold Italic */
     font-family: 'Ubuntu';
-    src: url('/revival-website//fonts/ubuntu/Ubuntu-BI.ttf') format('truetype');
+    src: url('fonts/ubuntu/Ubuntu-BI.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
