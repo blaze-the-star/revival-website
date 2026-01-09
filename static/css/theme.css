@@ -799,25 +799,25 @@ pre .lineno {
     --night-nav-elmnt: var(--night-background);
     --night-nav-elmnt-hover: var(--night-text);
 
-    --email-icon: url(images/mail-icon.svg);
+    --email-icon: url(/images/mail-icon.svg);
     --email-icon-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --email-bg-hover: red;
     --email-color: var(--email-bg-hover);
 
-    --devart-icon: url(images/deviantart-icon.svg);
+    --devart-icon: url(/images/deviantart-icon.svg);
     --devart-icon-filter-hover: invert(69%) sepia(40%) saturate(2100%) hue-rotate(108deg) brightness(95%) contrast(102%);
     --devart-bg-hover: #00E59B;
     --devart-color: var(--devart-bg-hover);
 
-    --tumblr-icon: url(images/tumblr-icon.svg);
+    --tumblr-icon: url(/images/tumblr-icon.svg);
     --tumblr-icon-filter-hover: invert(47%) sepia(93%) saturate(728%) hue-rotate(162deg) brightness(100%) contrast(109%);
     --tumblr-bg-hover: #00B8FF;
     --tumblr-color: var(--tumblr-bg-hover);
 
-    --home-icon: url(images/home-icon.svg);
+    --home-icon: url(/images/home-icon.svg);
     --home-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(103%) contrast(101%);
 
-    --about-icon: url(images/about-me-icon.svg);
+    --about-icon: url(/images/about-me-icon.svg);
     --about-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(103%) contrast(101%);
 }
 
