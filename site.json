@@ -27,6 +27,12 @@
         "title": "Send me an email!",
         "target": "_blank",
         "body": "<img>"
+      },
+      "subscribe": {
+        "href": "https://tr.ee/elq-hMeqUk",
+        "class": "link-subscribe",
+        "title": "Keep up with the latest from Revival!",
+        "body": "Subscribe"
       }
   },
   "newsletter": {
