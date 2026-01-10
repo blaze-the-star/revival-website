@@ -1,0 +1,15 @@
+{
+  "title": "Revival<h2>Chapter 1</h2>",
+  "date": "2025-12-01T00:00:00.000Z",
+  "permalink": "/1/1",
+  "navigation": [
+    {
+      "body": "Next",
+      "href": "/1/2"
+    },
+    {
+      "body": "First",
+      "href": "/1/1"
+    }
+  ]
+}
