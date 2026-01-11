@@ -5,8 +5,6 @@ permalink: /1/1
 navigation:
   - body: Next
     href: /1/2
-  - body: First
-    href: /1/1
 ---
 
 <script nav src="/revival-website/libs/process.js" next="/1/2"></script>
