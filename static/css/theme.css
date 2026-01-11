@@ -937,6 +937,12 @@ h3 {
     --icon-fltr: var(--about-icon-filter-hover);
 }
 
+.nav__bottom {
+    bottom: 16px;
+    display: flex;
+    justify-content: center;
+}
+
 /* Line divider spacing */
 hr {
     margin: 32px;
