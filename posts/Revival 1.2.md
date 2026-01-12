@@ -11,8 +11,6 @@ navigation:
     href: /1/3
 ---
 
-<script nav src="/revival-website/libs/process.js" prev="/1/1" next="/1/3"></script>
-
 ### The Long Walk  
 The morning opened wide around them—an autumn field under a bright, cold sun.  
 The air carried a crisp, metallic bite that slipped clean through fur and cloth.  
