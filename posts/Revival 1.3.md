@@ -11,8 +11,6 @@ navigation:
     href: /1/4
 ---
 
-<script nav src="/revival-website/libs/process.js" prev="/1/2" next="/1/4"></script>
-
 ### Cold Canvas  
 Joseph woke to cold air threading through the seams of the tent.  
   
