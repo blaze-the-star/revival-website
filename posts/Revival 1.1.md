@@ -7,8 +7,6 @@ navigation:
     href: /1/2
 ---
 
-<script nav src="/revival-website/libs/process.js" next="/1/2"></script>
-
 ### Dragged From the Deep  
 Joseph surfaced from sleep like he was dragged up through murky water—slow, groggy, barely conscious of the world he was returning to.  
 He shifted beneath his covers, expecting the soft cocoon of blankets and the hum of familiar warmth.  
