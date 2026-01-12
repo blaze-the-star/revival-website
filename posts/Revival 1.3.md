@@ -2,6 +2,13 @@
 title: "Revival<h2>Chapter 3</h2>"
 date: 2026-01-02
 permalink: /1/3
+navigation:
+  - body: Prev
+    href: /1/2
+  - body: First
+    href: /1/1
+  - body: Next
+    href: /1/4
 ---
 
 <script nav src="/revival-website/libs/process.js" prev="/1/2" next="/1/4"></script>
