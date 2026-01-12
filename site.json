@@ -28,6 +28,12 @@
         "target": "_blank",
         "body": "<img>"
       },
+      "rss":   {
+        "href": "/rss.xml",
+        "class": "link-rss",
+        "title": "Subscribe the RSS feed!",
+        "body": "RSS"
+      },
       "subscribe": {
         "href": "https://tr.ee/elq-hMeqUk",
         "class": "link-subscribe",
