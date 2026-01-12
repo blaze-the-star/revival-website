@@ -2,9 +2,14 @@
 title: "Revival<h2>Chapter 4 Draft</h2>"
 date: 2026-01-02
 permalink: /1/4
+navigation:
+  - body: Prev
+    href: /1/3
+  - body: First
+    href: /1/1
+  - body: Next (Coming Soon!)
+    href: /1/4
 ---
-
-<script nav src="/revival-website/libs/process.js" prev="/1/3" next="/1/5"></script>
 
 ### Homecoming
 The camp came back into view just as the sun tipped past its highest point, light slanting through the trees in long, pale bars.  
