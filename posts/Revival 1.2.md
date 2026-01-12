@@ -8,7 +8,7 @@ navigation:
   - body: First
     href: /1/1
   - body: Next
-    href: /1/2
+    href: /1/3
 ---
 
 <script nav src="/revival-website/libs/process.js" prev="/1/1" next="/1/3"></script>
