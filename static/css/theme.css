@@ -424,7 +424,7 @@ p {
     line-height: 125%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h3, h4, h5, h6 {
     font-weight: 700;
     line-height: 4;
 }
@@ -478,7 +478,6 @@ sup a:hover {
 time {
     display: block;
     color: var(--night-text-fade);
-    font-family: "Lato", -apple-system, Helvetica, Arial, sans-serif
 }
 
 table {
@@ -793,8 +792,8 @@ pre .lineno {
     --night-bold-color: #e4953e;
     --night-italic-color: #ffb3c1c0;
     --night-quote-color: #8fa897;
-    --night-nav-background: #2d2727;
-    --night-nav-elmnt: #241913;
+    --night-nav-background: #23211d;
+    --night-nav-elmnt: #342a21;
     --night-nav-elmnt-hover: var(--night-text);
     --email-icon: url(/img/mail.svg);
     --email-icon-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
@@ -815,13 +814,12 @@ body {
     background-color: var(--night-background);
     color: var(--night-text);
     padding: 0px;
-    margin-bottom: 0px;
-    margin-top: 0px;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
 }
 
 body {
-    background:
-        linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.6)),
+    background: linear-gradient(rgba(0,0,0,.875), rgba(0,0,0,.675)),
         url("/img/grain.jpg") center / cover no-repeat fixed;
     background-attachment: fixed;
     background-size: cover, cover;
@@ -883,6 +881,9 @@ h3 {
     transform: translateX(-50%);
     width: 100vw;
     margin: 0px;
+    background: rgb(24 22 19 / 70%);  /* warm black */
+    backdrop-filter: blur(6px);
+    /* border-top: 1px solid rgba(255, 255, 255, 0.05); */
 }
 .nav + * {
     margin-top: 1rem;
@@ -895,8 +896,16 @@ h3 {
 
 /* Nav link class */
 .nav a {
-    background-color: var(--bg, var(--night-nav-elmnt));
-    color: var(--txt-clr, var(--night-text));
+    background: linear-gradient(
+        to bottom,
+        rgb(175 155 129 / 10%),
+        rgb(123 98 73 / 22%)
+    );
+    color: #e6d5bc;
+    border: 1px solid rgb(255 204 139 / 7%);
+    box-shadow:
+        0 0 12px rgb(255 189 133 / 5%),
+        inset 0 0 6px rgb(255 234 202 / 0%);
 }
 .nav a:hover {
     background-color: var(--bg-hover, var(--night-nav-elmnt-hover));
