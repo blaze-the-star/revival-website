@@ -819,6 +819,16 @@ body {
     margin-top: 0px;
 }
 
+body {
+    background:
+        linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.6)),
+        url("/img/grain.jpg") center / cover no-repeat fixed;
+    background-attachment: fixed;
+    background-size: cover, cover;
+    background-position: center, center;
+    background-repeat: no-repeat, no-repeat;
+}
+
 /* Color quotes blue */
 blockquote p {
     color: var(--night-quote-color);
@@ -986,3 +996,4 @@ a:hover {
     background-color: var(--night-text);
     color: var(--night-elmnt);
 }
+
