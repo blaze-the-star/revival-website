@@ -420,13 +420,13 @@ body {
 
 p {
     margin-bottom: 1.5rem;
-    font-size: 110%;
-    line-height: 140%
+    font-size: 100%;
+    line-height: 125%;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
-    line-height: 1.2
+    line-height: 4;
 }
 
 hr {
@@ -785,41 +785,38 @@ pre .lineno {
 /* Revival */
 
 :root {
-    --night-text: #ffffffd0;
+    --night-text: #E6E2DA;
     --night-text-fade: #888;
-
-    --night-background: #17171a;
+    --night-background: #1c1a19;
     --night-elmnt: #272730;
     --night-elmnt-hover: var(--night-text);
-    --night-bold-color: #d15f98f0;
+    --night-bold-color: #e4953e;
     --night-italic-color: #ffb3c1c0;
-    --night-quote-color: #59acc7;
-
-    --night-nav-background: #2f2f2f;
-    --night-nav-elmnt: var(--night-background);
+    --night-quote-color: #8fa897;
+    --night-nav-background: #2d2727;
+    --night-nav-elmnt: #241913;
     --night-nav-elmnt-hover: var(--night-text);
-
     --email-icon: url(/img/mail.svg);
     --email-icon-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --email-bg-hover: red;
     --email-color: var(--email-bg-hover);
-
     --rss-icon: url(/img/rss.svg);
     --rss-icon-filter-hover: brightness(0) saturate(100%) invert(42%) sepia(82%) saturate(2010%) hue-rotate(350deg) brightness(101%) contrast(90%);
     --rss-bg-hover: #f26422;
     --rss-color: var(--rss-bg-hover);
-
     --home-icon: url(/img/home.svg);
-    --home-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(103%) contrast(101%);
-
+    --home-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(33%) contrast(101%);
     --about-icon: url(/img/info.svg);
-    --about-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(103%) contrast(101%);
+    --about-icon-filter-hover: invert(100%) sepia(0%) saturate(704%) hue-rotate(315deg) brightness(33%) contrast(101%);
 }
 
 /* Make site dark theme */
 body {
     background-color: var(--night-background);
-    color: var(--night-text);    
+    color: var(--night-text);
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 /* Color quotes blue */
@@ -866,14 +863,16 @@ h3 {
 
 /* Make the navigation bar float */
 .nav {
-    position: sticky;
-    right: 0px;
-    left: 0px;
-    top: 16px;
-    margin: 0px;
+    position: fixed;
+    /* right: -50vw; */
+    /* left: 100vw; */
+    top: 0px;
     background-color: var(--night-nav-background);
     padding: 16px;
-    border-radius: 96px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+    margin: 0px;
 }
 .nav + * {
     margin-top: 1rem;
@@ -881,7 +880,7 @@ h3 {
 
 /* Text color of nav bar children is almost black */
 .nav * {
-    color: #1f1f1f
+    color: #1f1f1f;
 }
 
 /* Nav link class */
@@ -928,9 +927,12 @@ h3 {
 }
 
 .nav__bottom {
-    bottom: 16px;
+    position: fixed;
+    bottom: 0px;
     display: flex;
     justify-content: center;
+    top: auto;
+    margin: 0px;
 }
 
 /* Line divider spacing */
