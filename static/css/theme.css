@@ -419,9 +419,10 @@ body {
 }
 
 p {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
     font-size: 100%;
-    line-height: 125%;
+    line-height: 120%;
 }
 
 h3, h4, h5, h6 {
@@ -795,6 +796,7 @@ pre .lineno {
     --night-nav-background: #23211d;
     --night-nav-elmnt: #342a21;
     --night-nav-elmnt-hover: var(--night-text);
+    --icon-clr: #665f54;
     --email-icon: url(/img/mail.svg);
     --email-icon-filter-hover: invert(16%) sepia(71%) saturate(7047%) hue-rotate(358deg) brightness(99%) contrast(115%);
     --email-bg-hover: red;
@@ -912,14 +914,16 @@ h3 {
     color: var(--txt-clr-hvr, var(--night-nav-elmnt));
 }
 .nav a img {
-    background: var(--icon, "") no-repeat center / cover;
     display: inline-block;
     position: absolute;
     margin: 0px;
-    filter: var(--icon-fltr, none);
     transform: translate(-50%, -50%);
     top: 50%;
     padding: 0.65rem;
+    /*background: var(--icon, "");*/
+    background-color: var(--icon-clr);
+    mask: var(
+    --icon, "");
 }
 .nav a:hover img {
     filter: var(--icon-fltr-hover, none);
@@ -943,6 +947,9 @@ h3 {
     --bg-hover: var(--rss-bg-hover);
     --icon: var(--rss-icon);
     --icon-fltr: var(--rss-icon-filter-hover);
+}
+.nav a.link-rss:hover {
+    --icon-clr: white;
 }
 
 .nav__bottom {
