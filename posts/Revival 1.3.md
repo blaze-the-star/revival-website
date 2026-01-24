@@ -1,5 +1,5 @@
 ---
-title: "Revival<h2>Chapter 3</h2>"
+title: "Revival Ch.3"
 date: 2026-01-02
 permalink: /1/3
 navigation:
