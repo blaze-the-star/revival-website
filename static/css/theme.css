@@ -821,7 +821,7 @@ body {
 }
 
 body {
-    background: linear-gradient(rgba(0,0,0,.875), rgba(0,0,0,.675)),
+    background: linear-gradient(rgba(0,0,0,.85), rgba(0,0,0,0.7)),
         url("/img/grain.jpg") center / cover no-repeat fixed;
     background-attachment: fixed;
     background-size: cover, cover;
