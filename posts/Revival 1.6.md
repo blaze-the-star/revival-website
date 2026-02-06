@@ -7,8 +7,8 @@ navigation:
     href: /1/4
   - body: First
     href: /1/1
-  - body: Next (Coming Soon!)
-    href: /1/6
+  - body: Next
+    href: /1/7
 ---
 
 Snout woke to the sound of leaves shifting overhead—soft, dry, the whisper of fall settled into the trees.  
