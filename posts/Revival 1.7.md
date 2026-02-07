@@ -128,7 +128,7 @@ Joseph kept his gaze down, adjusting his coat sleeves. That’s when a scent cau
   
 His head turned before he could stop it.  
   
-There, one tables over, stood Crystal.  
+There, one table over, stood Crystal.  
 The red fox was watching him.  
 When their eyes met, she didn’t look away—just tilted her head slightly.  
   
