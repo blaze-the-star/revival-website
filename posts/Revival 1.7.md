@@ -1,5 +1,5 @@
 ---
-title: "Revival Ch.7 (Draft)"
+title: "Revival Ch.7 (Beta 2)"
 date: 2026-02-05
 permalink: /1/7
 navigation:
@@ -45,7 +45,7 @@ Snout’s voice came easily from behind him.
   
 She made a soft, amused sound.  
   
-> “Left. At the cooper’s.”  
+> “Left here.”  
   
 Joseph turned, then sighed.  
   
@@ -79,13 +79,16 @@ Snout called out directions as needed, until the street began to slope gently do
 The smell reached him before the building did—stew, grain, and smoke braided together in a way that made his stomach tighten despite himself.  
   
 Tucked between a cooper’s shop and a chandler’s stall sat **The Gathered Bowl**.  
-Smoke curled from its chimney, carrying the rich scent of stew and baked grain.  
+Smoke curled from its chimney, gently fading into the sky.  
   
 Snout *finally* walked ahead, entering the establishment.  
 Joseph fell back a step without thinking.  
   
 Inside, long wooden tables ran the length of the room, crowded with animals of all kinds.  
 There were no private booths—just shared space and the low, warm hum of community.  
+The evening sun had little effect through the windows.
+The brightest light came from lanterns mounted on the walls, but they were too sparse to meaningfully light up the room.  
+Instead, candles on the tables were what gave flickers of sight to those around the them.  
   
 Joseph paused in the doorway, his ears tilting.  
   
@@ -104,22 +107,17 @@ Snout shrugged.
 > “Different ways. Here, you share space unless there’s a fight brewing.”  
   
 She chose a spot near the middle where a pair of older badgers and a young raccoon were already eating.  
-Snout settled onto a floor cushion.  
+
+Snout settled onto a floor cushion and Chatter pulled a stool from under the table, hopping onto it with otter-ish grace.  
   
-Underneath the table, stools were stowed.  
-Chatter pulled one beside Snout and hopped on it with otter-ish grace.  
-  
-Joseph pulled himself a stool and eyed the thing.  
+Joseph pulled himself a stool across from them and eyed the thing.  
 It looked cobbled together, and it balanced unevenly.  
 With careful paws, he climbed onto it, tail coiled for balance.  
 Even seated, he was shorter than Snout.  
 He felt perched like a child in a high-chair.  
   
-Joseph looked around--the room was dark.  
-The brightest light came from lanterns mounted on the walls, but they were too sparse to meaningfully light up the room and the setting sun had little effect through the windows.  
-Candles on the tables gave flickers of sight to those around the table.  
-  
-Chatter, already settled, leaned toward the nearest badger.  
+Chatter was already settled in.  
+He leaned toward the nearest badger.  
   
 > “What’s in the stew today?”  
   
@@ -130,12 +128,13 @@ Joseph kept his gaze down, adjusting his coat sleeves. That’s when a scent cau
   
 His head turned before he could stop it.  
   
-There, three tables over, stood Crystal.  
+There, one tables over, stood Crystal.  
 The red fox was watching him.  
 When their eyes met, she didn’t look away—just tilted her head slightly.  
   
 Joseph twitched, and the stool shifted under him.  
 One leg lifted off the floor, and he jerked forward, clutching the table edge.  
+
 He didn’t look back again.  
   
 > “You alright?” Snout asked, her voice low.  
@@ -151,7 +150,6 @@ Crystal pulled over a stool from another spot and set it down beside Joseph—cl
 She sat as though she’d been invited.  
   
 Joseph stared rigidly at the empty space in front of him.  
-  
 Chatter’s eyes went wide.  
   
 > “Joseph—isn't that the fox from the alley!”  
@@ -173,7 +171,7 @@ Snout looked between them, her coyote-smile slow and knowing.
   
 Joseph blinked.  
   
-> “Why’d you say it like that?” Joseph hissed.  
+> “Why’d you say it like that?” He hissed.  
   
 > “Just noting,” Snout replied mildly.  
 > “Most folks wouldn’t have done that.”  
@@ -182,7 +180,7 @@ Joseph blinked, then darted his eyes around the table.
 The badgers were pretending not to listen.  
 The raccoon had paused, spoon halfway to his mouth.  
   
-> “Why do I feel like there’s something you’re not telling me?” Joseph whispered.  
+> “Why do I feel like there’s something you’re not telling me?”  
   
 Crystal covered her mouth with one paw, a quiet laugh escaping.  
   
@@ -265,7 +263,8 @@ Crystal blinked once—then smiled, clearly amused despite his tone.
 Joseph felt heat creep into his ears.  
   
 > “I—” He shook his head.  
-> “And I didn’t say I did. So—what’s your point?”  
+> “And I didn’t say I did.”  
+> “So—what’s your point?”  
   
 Crystal’s smile softened, not retreating—just… settling.  
   
@@ -386,7 +385,7 @@ Then, softer—aimed somewhere between the table and Joseph—
   
 Crystal handed marks to the waiter and she was gone, slipping back into the low-lit crowd.  
   
-The group didn’t linger much longer.  
+The group didn’t linger much longer, and they took their leave too.  
   
 ---  
   
@@ -435,7 +434,8 @@ Joseph and Chatter halted with her.
   
 She met Joseph’s eyes.  
   
-> “She’s a thief. A troublemaker. And she knows how to turn people into opportunities.”  
+> “She’s a thief. A troublemaker.”  
+> “And she knows how to turn people into opportunities.” 
   
 Joseph pressed.  
   
@@ -460,7 +460,7 @@ It didn't make any sense.
 _Am I just being overly optimistic?_  
   
 Snout turned again toward camp.  
-He and Chatter followed.  
+Chatter followed, then Joseph.  
   
 Three shapes moving through the dark,  
 with Flint Water settling quietly behind them,  
@@ -468,5 +468,5 @@ and questions following close at their heels.
   
 Behind them, the alley lay quiet.  
 For a moment, a shape lingered at its edge—  
-watching the road, not the foxes.  
-Then it turned away, and the darkness closed in again.  
+watching the road.  
+Then it turned away, blending into the darkness.  

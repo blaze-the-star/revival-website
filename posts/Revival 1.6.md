@@ -1,5 +1,5 @@
 ---
-title: "Revival Ch.6 (Draft)"
+title: "Revival Ch.6 (Beta 1)"
 date: 2026-01-23
 permalink: /1/6
 navigation:
