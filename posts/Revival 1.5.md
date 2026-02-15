@@ -1,15 +1,15 @@
----  
-title: "Revival Ch.5"  
-date: 2026-01-02  
-permalink: /1/5  
-navigation:  
-  - body: Prev  
-    href: /1/4  
-  - body: First  
-    href: /1/1  
-  - body: Next  
-    href: /1/6  
----  
+---
+title: "Revival Ch.5"
+date: 2026-01-02
+permalink: /1/5
+navigation:
+  - body: Prev
+    href: /1/4
+  - body: First
+    href: /1/1
+  - body: Next
+    href: /1/6
+---
 
 Morning arrived with the same cold it always did.  
 
