@@ -1,3 +1,18 @@
+---
+title: "Revival Ch.7 (Beta 2)"
+date: 2026-02-05
+permalink: /1/7
+navigation:
+  - body: Prev
+    href: /1/6
+  - body: First
+    href: /1/1
+  - body: Next (Coming Soon!)
+    href: /1/7
+---
+
+(Revision: Pearl is now called Soot.)
+
 Flint Water was quieter in the evening.  
   
 A town settling—just settling.  
@@ -113,7 +128,7 @@ Joseph kept his gaze down, adjusting his coat sleeves. That’s when a scent cau
   
 His head turned before he could stop it.  
   
-There, one tables over, stood Crystal.  
+There, one table over, stood Crystal.  
 The red fox was watching him.  
 When their eyes met, she didn’t look away—just tilted her head slightly.  
   
