@@ -8,7 +8,7 @@ navigation:
   - body: First
     href: /1/1
   - body: Next
-    href: /1/6
+    href: /1/5
 ---
 
 ### Homecoming
