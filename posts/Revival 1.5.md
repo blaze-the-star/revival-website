@@ -1,15 +1,15 @@
----
-title: "Revival Ch.5"
-date: 2026-01-02
-permalink: /1/5
-navigation:
-  - body: Prev
-    href: /1/4
-  - body: First
-    href: /1/1
-  - body: Next
-    href: /1/6
----
+---  
+title: "Revival Ch.5"  
+date: 2026-01-02  
+permalink: /1/5  
+navigation:  
+  - body: Prev  
+    href: /1/4  
+  - body: First  
+    href: /1/1  
+  - body: Next  
+    href: /1/6  
+---  
 
 Morning arrived with the same cold it always did.  
 
@@ -67,25 +67,51 @@ Joseph blinked.
 
 > "Like... what?"  
 
-Snout cleared her throat.  
+Snout and Fight exchanged a glance—quick, loaded with something Joseph couldn't read.  
 
-> "Most folks sit upright," she said carefully.  
-> "On their own."  
+Snout cleared her throat carefully.  
 
-She demonstrated—spine straight, hind legs folded beneath her, forepaws hanging down.  
-No support.  
-No brace.  
+> "Joseph," she said, her tone gentle in a way that immediately made him wary, "that's how cubs sit. Little ones. Before they learn better."  
+
+Joseph stared at her.  
+
+> "What?"  
+
+She demonstrated—spine straight, hind legs folded beneath her, forepaws resting loose in her lap. No support. No brace.  
+
+> "Most folks sit upright. On their own."  
 
 Joseph looked down at himself.  
 Forepaws flat.  
 Shoulders hunched.  
-Weight balanced on his front like a dog waiting for a treat.  
+Weight balanced on his front like—like a child waiting for a story.  
 
 _Oh._  
 
 Heat crawled up his ears.  
 
-> "I—"  
+> "I didn't—I didn't know," he muttered.  
+> "No one told me."  
+
+Fight snorted.  
+
+> "Didn't think we had to. Figured it was instinct."  
+
+> "My instincts are from a body that didn't have a tail or fur," Joseph said flatly.  
+> "So forgive me if I don't know the proper way to be a fox."  
+
+Snout's mouth twitched, but she held back the smile.  
+
+> "No one's forgiving you for anything. It's just—" She gestured.  
+> "You might want to learn. Before someone sees you in town and assumes things."  
+
+Joseph's ears flattened further.  
+
+_Assume things. Like what?_  
+_That I'm helpless? That I'm a child?_  
+_That I don't belong here?_  
+
+He already knew the answer to that last one.  
 
 He shifted, trying to copy Snout's posture.  
 His back complained immediately.  
@@ -125,7 +151,8 @@ Same texture that scraped the roof of his mouth if he wasn't careful.
 
 He bit into it anyway.  
 
-_This is what we eat_, he told himself. _This is what there is._  
+_This is what we eat_, he told himself.   
+_This is what there is._  
 
 But his mind drifted anyway—to warm kitchens, to fresh bread straight from the oven, to butter melting into toast, to the smell of pancakes on Saturday mornings.  
 
@@ -135,7 +162,8 @@ Not with hunger.
 
 With something worse.  
 
-_I miss food_, he realized. _I miss toast.  
+_I miss food_, he realized.   
+_I miss toast.  
 I miss eggs.  
 I miss coffee._  
 
@@ -235,9 +263,7 @@ Chatter followed his gaze, then looked back at him like he'd asked why water was
 Joseph's mind went very, very quiet.  
 
 _They're eating meat._  
-
 _Everyone here is an animal._  
-
 _If everyone here is an animal—_  
 
 He stared at the strip.  
@@ -272,11 +298,11 @@ Then his whole body started shaking.
 > "You thought we were eating—"  
 
 > "I didn't _think_ anything," Joseph said quickly, ears burning.  
-> "I just—it was a _moment_—"  
+> "I just—it was a moment—"  
 
 Chatter slapped both paws over his mouth, but it was too late—laughter burst through anyway, high and wheezing, doubling him over until his forehead nearly touched the ground.  
 
-> "It's _not_—" He gasped.  
+> "It's not—" He gasped.  
 > "We don't—Joseph, we're not—"  
 
 Joseph huffed, and threw a stick at him.  
@@ -443,8 +469,8 @@ Even Eli's gaze shifted—slow, curious.
 
 Chatter sat up, eyes bright with barely contained glee.  
 
-> "You should've _seen_ him," he said.  
-> "He just—froze. Pointed at the drying meat like it was a—a _ghost_. Asked where it came from. And then his face—"  
+> "You should've seen him," he said.  
+> "He just—froze. Pointed at the drying meat like it was a—a ghost. Asked where it came from. And then his face—"  
 Chatter dissolved into giggles.  
 > "He thought—he actually _thought_—"  
 
@@ -480,7 +506,6 @@ His pulse hammered.
 His ears burned.  
 
 _Stop looking at me._  
-
 _Just stop._  
 
 The silence stretched.  
@@ -496,7 +521,7 @@ Joseph's head snapped up.
 
 > "You absolutely thought we were eatin' fox."  
 
-> "I _didn't_—"  
+> "I didn't—"  
 
 > "You pointed at the meat like it bit you."  
 
@@ -761,7 +786,8 @@ His entire existence.
 
 But not this.  
 
-_It's still the same_, he thought. _Nothing changed up there._  
+_It's still the same_, he thought.   
+_Nothing changed up there._  
 
 _Everything changed down here._  
 
@@ -806,7 +832,9 @@ Eli's gaze was fixed upward, red fur silvered in the starlight.
 
 Joseph didn't know how to answer.  
 
-_Means what?_ he wanted to ask. _That I'm still connected? That I'm still me? That nothing's changed and everything has, all at once?_  
+_Means what?_ he wanted to ask.   
+_That I'm still connected? That I'm still me?_  
+_That nothing's changed and everything has, all at once?_  
 
 But the words wouldn't come.  
 
