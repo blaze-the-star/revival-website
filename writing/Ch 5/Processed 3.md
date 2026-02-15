@@ -2,18 +2,16 @@ Morning arrived with the same cold it always did.
 
 The air lingered where it was cool enough to bite, but warm enough that frost hadn't troubled the canvas. Joseph woke to damp air and the distant sound of Chatter's voice already running, even before breakfast.  
 
-He lay still for a moment, staring at the pale light filtering through the seams, waiting for the familiar ache to surface.  
+He lay still for a moment, staring at the pale light filtering through the seams.
 
-It didn't.  
+He whispered:
 
-Not the ache for home.  
-Not the sharp grief he expected to feel each morning.  
-Just… stillness.  
-The same hollow quiet that had settled into his chest days ago and refused to leave.  
+> "Guide my steps Lord. Lead me in your ways, and may your will be done."  
 
 Joseph pushed himself up and shook the stiffness from his limbs.  
 
-_It doesn't feel that cold. Maybe my fur would be warm enough._  
+_It doesn't feel that cold._  
+_Maybe my fur would be warm enough._  
 
 He crawled out into the grey.  
 
@@ -26,7 +24,7 @@ He stared at the camp—at Fight already seated by the fire, at Snout chewing so
 
 Fight looked up as he shuffled over.  
 
-"Mornin', icicle."  
+> "Mornin', icicle."  
 
 Joseph didn't answer.  
 He just found a spot near the fire and—  
