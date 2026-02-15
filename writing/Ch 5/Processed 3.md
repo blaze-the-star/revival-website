@@ -10,8 +10,12 @@ He whispered:
 
 Joseph pushed himself up and shook the stiffness from his limbs.  
 
-_It doesn't feel that cold._  
-_Maybe my fur would be warm enough._  
+Inside the tent, with the canvas blocking the wind, he felt fine—almost comfortable.  
+The fur along his arms and chest trapped warmth efficiently, holding it close like a second skin.
+
+_This isn't so bad,_ he thought._  
+_The fur helps._  
+_I'll be fine._
 
 He crawled out into the grey.  
 
