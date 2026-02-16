@@ -13,7 +13,7 @@ Joseph pushed himself up and shook the stiffness from his limbs.
 Inside the tent, with the canvas blocking the wind, he felt fine—almost comfortable.  
 The fur along his arms and chest trapped warmth efficiently, holding it close like a second skin.
 
-_This isn't so bad,_ he thought._  
+_This isn't so bad,_ he thought.  
 _The fur helps._  
 _I'll be fine._
 

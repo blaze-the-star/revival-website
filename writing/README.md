@@ -2,11 +2,9 @@
 
 1. [x] Wake-up (Day 1)
 2. [x] Travel + Spirit (Day 2)
-3. [x] Standing (Day 3)
-4. [x] Protection + The dark fox (Day 3, 4)
-5. [ ] Training/distraction (Day 5)
-	- Introduce that sitting like a traditional animal is considered childish 
-	- Joseph continues struggling with the idea that he doesn't miss his family
+3. [x] Training/distraction (Day 3)
+4. [x] Standing (Day 4)
+5. [x] Protection + The dark fox (Day 4, 5)
 6. [ ] Temple  (6)
 7. [x] Snout and Soot (Day 7)
 8. [x] Supper (Day 7)
@@ -32,3 +30,31 @@ When Joseph is taken to prison there needs to be a logical reason to believe eit
 
 - [ ] Rename _Shrine Walk_
 - [ ] Come up with a term for the religious authorities
+
+Back home, there were ones who found salvation and stopped there. They sought God no deeply than that. Don't be like them. You will never reach a point where you can't get closer. Never stop growing closer with God. Forever and ever. Let this be your character: that you seek God and never let anything get between you and Him, not even me. Let this be who you are. Amen.
+
+### Add double spaces to end of every line
+```find
+^([^-].*\S)[ ]*
+
+```
+```replace
+$1  
+
+```
+### Newline for every sentence
+```find
+^([^"“].*)\.\s*(\S)
+```
+```replace
+$1.  
+$2
+```
+### Quotes to open-quotes
+```find
+
+```
+```replace
+
+```
+
