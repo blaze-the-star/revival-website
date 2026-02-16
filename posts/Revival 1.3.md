@@ -1,662 +1,879 @@
 ---
-title: "Revival Ch.3"
-date: 2026-01-02
-permalink: /1/3
-navigation:
-  - body: Prev
-    href: /1/2
-  - body: First
-    href: /1/1
-  - body: Next
+title: "Revival Ch.3"  
+date: 2026-01-02  
+permalink: /1/3  
+navigation:  
+  - body: Prev  
+    href: /1/2  
+  - body: First  
+    href: /1/1  
+  - body: Next  
     href: /1/4
 ---
 
-### Cold Canvas  
-Joseph woke to cold air threading through the seams of the tent.  
-  
-For a moment he didn’t know where he was.  
-   
-Canvas above him.  
-A blanket tangled around his legs.  
-The faint ache in his back from sleeping curled too tightly.  
-Then the smell of cedar and last night’s fire settled his thoughts, grounding him in the small clearing just outside Flint Water.  
-  
-His paws were stiff.  
-His breath fogged.  
-And his tail—still something he hadn’t accepted as his—was pinned beneath him again.  
-  
-He exhaled, shifting until it freed itself, and pushed upright, rubbing his eyes with the back of one paw.  
-Outside, voices drifted in and out of the morning air—low, tired, familiar.  
-  
-He slipped out through the tent flap.  
-  
-Snout, Chatter, and Fight were gathered near the fire, each with a piece of dry bread in paw.  
-Not toasted.  
-Not warmed.  
-Just… dry.  
-The smell of it was faintly sour and faintly old.  
-  
-Chatter didn’t seem to mind.  
-   
-The otter was already halfway through his, crumbs clinging to his whiskers.  
-  
-Snout glanced up as Joseph approached, her coyote ears flicking in greeting.  
-  
-> “‘Mornin’, fox.”  
-  
-> “Morning,” Joseph murmured.    
-  
-He tugged his blanket close, shivering as the cold slipped straight through his fur.  
-He eased down beside the fire, soaking in what little warmth it offered.  
-  
-Fight tossed him a chunk of bread—none too gently.  
-  
-> The bobcat muttered, “Eat. We’ve got a long day.”  
-  
-Joseph caught it against his chest, trying not to wince at the stale hardness.  
-  
-Chatter brightened.  
-> “Market day!”  
-> “Lots of noise.”  
-> “Lots of smells.”  
-> “Lots of people.”  
-> “Lots of—”  
-  
-Snout thumped her tail lightly against the ground.  
-   
-> “Let ’im wake up first.”  
-  
+Morning arrived with the same cold it always did.  
+
+The air lingered where it was cool enough to bite, but warm enough that frost hadn't troubled the canvas. Joseph woke to damp air and the distant sound of Chatter's voice already running, even before breakfast.  
+
+He lay still for a moment, staring at the pale light filtering through the seams.
+
+He whispered:
+
+> "Guide my steps Lord. Lead me in your ways, and may your will be done."  
+
+Joseph pushed himself up and shook the stiffness from his limbs.  
+
+Inside the tent, with the canvas blocking the wind, he felt fine—almost comfortable.  
+The fur along his arms and chest trapped warmth efficiently, holding it close like a second skin.
+
+_This isn't so bad,_ he thought.  
+_The fur helps._  
+_I'll be fine._
+
+He crawled out into the grey.  
+
+The wind hit him immediately—a cutting gust that slipped straight through his fur like it wasn't there.  
+He yelped and dipped back inside.  
+
+A moment later, he emerged again, blanket wrapped so tightly around his shoulders that only his muzzle and ears showed.  
+
+He stared at the camp—at Fight already seated by the fire, at Snout chewing something dry and brown, at the cheerful curl of smoke rising into the cold—and made a decision.  
+
+Fight looked up as he shuffled over.  
+
+> "Mornin', icicle."  
+
+Joseph didn't answer.  
+He just found a spot near the fire and—  
+Sat.  
+On his haunches.  
+Forepaws braced against the ground in front of him, supporting his weight the way he'd done every morning since arriving.  
+
+It felt natural.  
+Stable.  
+Right.  
+
+Fight stared at him.  
+Snout stopped chewing.  
+Chatter tilted his head, whiskers twitching.  
+
+Joseph looked between them.  
+
+> "What?"  
+
+Fight's tail flicked again—slower this time.  
+
+> "You plannin' to sit like that all day?"  
+
+Joseph blinked.  
+
+> "Like... what?"  
+
+Snout and Fight exchanged a glance—quick, loaded with something Joseph couldn't read.  
+
+Snout cleared her throat carefully.  
+
+> "Joseph," she said, her tone gentle in a way that immediately made him wary, "that's how cubs sit. Little ones. Before they learn better."  
+
+Joseph stared at her.  
+
+> "What?"  
+
+She demonstrated—spine straight, hind legs folded beneath her, forepaws resting loose in her lap. No support. No brace.  
+
+> "Most folks sit upright. On their own."  
+
+Joseph looked down at himself.  
+Forepaws flat.  
+Shoulders hunched.  
+Weight balanced on his front like—like a child waiting for a story.  
+
+_Oh._  
+
+Heat crawled up his ears.  
+
+> "I didn't—I didn't know," he muttered.  
+> "No one told me."  
+
+Fight snorted.  
+
+> "Didn't think we had to. Figured it was instinct."  
+
+> "My instincts are from a body that didn't have a tail or fur," Joseph said flatly.  
+> "So forgive me if I don't know the proper way to be a fox."  
+
+Snout's mouth twitched, but she held back the smile.  
+
+> "No one's forgiving you for anything. It's just—" She gestured.  
+> "You might want to learn. Before someone sees you in town and assumes things."  
+
+Joseph's ears flattened further.  
+
+_Assume things. Like what?_  
+_That I'm helpless? That I'm a child?_  
+_That I don't belong here?_  
+
+He already knew the answer to that last one.  
+
+He shifted, trying to copy Snout's posture.  
+His back complained immediately.  
+His tail got in the way.  
+He wobbled, caught himself, wobbled again.  
+
+Fight snorted.  
+
+> "Looks like a newborn fawn tryin' to sit pretty."  
+
+> "Fight," Snout said flatly.  
+
+> "I'm just observin'."  
+
+Joseph ignored them both and kept adjusting.  
+After a few attempts, he found something close to the right position—back straight, paws free, tail curled awkwardly to the side.  
+It felt stiff. Wrong.  
+Like wearing shoes on the wrong feet.  
+But he held it.  
+
+Chatter beamed.  
+
+> "You look older already!"  
+
+Joseph wasn't sure that was a compliment.  
+
+---  
+
+Breakfast was dry bread.  
+
+Again.  
+
+Joseph turned the piece over in his paws, eyeing it.  
+Same pale crust.  
+Same faintly sour smell.  
+Same texture that scraped the roof of his mouth if he wasn't careful.  
+
+He bit into it anyway.  
+
+_This is what we eat_, he told himself.   
+_This is what there is._  
+
+But his mind drifted anyway—to warm kitchens, to fresh bread straight from the oven, to butter melting into toast, to the smell of pancakes on Saturday mornings.  
+
+His stomach twisted.  
+
+Not with hunger.  
+
+With something worse.  
+
+_I miss food_, he realized.   
+_I miss toast.  
+I miss eggs.  
+I miss coffee._  
+
+_I miss coffee more than I miss my family._  
+
+The thought landed like a stone.  
+
+He stopped chewing.  
+
+_What kind of person does that make me?_  
+
+He stared at the bread in his paws.  
+Dry.  
+Plain.  
+Utterly ordinary.  
+
+And yet.  
+
+_I don't even know if they're okay._  
+_I don't know if they're looking for me._  
+_I don't know if they're—_  
+
+> "You alright over there?"  
+
+Joseph startled.  
+
+Chatter was watching him, head tilted, whiskers quirked with concern.  
+Snout had paused mid-chew, and even Fight's gaze had drifted his way.  
+
+Joseph blinked, then looked down at the bread in his paws.  
+
+> "Yeah," he said quickly.  
+> "Fine. Just—thinking."  
+
+He took another bite.  
+
+Snout held his gaze a moment longer, then shrugged and went back to her breakfast.  
+
+The day stretched long after breakfast.  
+
+Fight had tasks—repairing straps, checking cart wheels, sorting through gear with the kind of methodical grumpiness that suggested he'd rather be doing anything else.  
+Chatter followed him like a particularly enthusiastic shadow, asking questions Fight answered in single syllables.  
+
+Joseph lingered nearby, uncertain.  
+
+He tried to help.  
+
+Fight handed him a coil of rope with a worn spot near the middle.  
+Joseph held it while the bobcat cut a fresh length from a spool, then swapped places to let him splice the new piece in.  
+The work was slow, deliberate—knots Joseph didn't know, tension he couldn't gauge—but Fight corrected him without snapping, which felt close to kindness.  
+
+When that was done, they moved to the cart wheels.  
+Fight showed him how to check for loose spokes, how to test the hub for wobble, how to tell if a wheel had gone too long without grease.  
+Joseph listened, asked a few questions, and tried not to get in the way.  
+
+It wasn't much.  
+
+But it was something.  
+
+And somewhere in the middle of it—between one strap repair and the next—Joseph found himself thinking about God again.  
+
+Just... thinking.  
+
+_You're here_, he thought, glancing at the sky through bare branches.  
+_I know You're here._  
+_I just don't know what You want._  
+
+The wind stirred.  
+Nothing else.  
+
+He kept working.  
+
+---  
+
+The dried meat appeared mid-afternoon.  
+
+Joseph was helping Chatter stack kindling when he spotted it—a strip of something dark and leathery, laid out on a flat stone near the fire.  
+Drying.  
+Curing.  
+Waiting.  
+
+He froze.  
+
+Chatter noticed.  
+
+> "You okay?"  
+
+Joseph pointed.  
+
+> "What... is that?"  
+
+Chatter followed his gaze, then looked back at him like he'd asked why water was wet.  
+
+> "Dried meat," he said.  
+> "You haven't had any yet?"  
+
+Joseph's mind went very, very quiet.  
+
+_They're eating meat._  
+_Everyone here is an animal._  
+_If everyone here is an animal—_  
+
+He stared at the strip.  
+Then at Chatter.  
+Then at his own paws.  
+Then back at the meat.  
+
+Chatter tilted his head.  
+
+> "...Joseph?"  
+
+Joseph's voice came out strangled.  
+
+> "Where does the meat come from?"  
+
 Chatter blinked.  
-  
-> “Oh. Right. Sorry.”  
-  
-Joseph offered a soft smile.  
-  
-> “It’s okay. Just… slow morning.”  
-  
-Fight snorted like he didn’t understand what a slow morning was.  
-  
-### Marching Orders  
-They ate quietly for a while, the only sounds the crackle of the low fire and Chatter’s occasional hums as he tried to remember a tune.  
-Joseph watched the faint sunrise leak through the trees, pale gold and washed in cool autumn blue.  
-  
-It was the kind of morning that felt older than it was.  
-  
-The kind that said the world was already busy whether you were ready or not.  
-  
-Footsteps approached.  
-   
-Eli emerged from behind the tents, tying the last knot in his pack straps.  
-His red wolf posture was already alert, keen, his shoulders squared in a way that said he’d been awake long before the rest of them.  
-  
-> “Alright,” he said, voice level.  
-> “Eat up. We’ve got business today.”  
-  
-Snout straightened.  
-Chatter perked.  
-Fight leaned back, unimpressed but listening.  
-  
-Eli nodded toward the road.  
-  
-> “Snout, Chatter—you’re taking Joseph into town. Market’s open early on third-day.”  
-> “Get what we need for the week. Food, bandages, lamp-oil. If the price is decent, pick up another coat.”  
-  
-Chatter’s eyes shot wide.  
-  
-> “For him?” He pointed at Joseph.  
-> “’Cause he shivers all the—”  
-  
-Snout elbowed him lightly.  
-  
-> Eli didn’t comment. He only continued, “Fight, you’re staying to watch camp.”  
-  
-Fight blinked once, slowly.  
-  
-> “Babysittin’, then.”  
-  
-> “Guard duty,” Eli corrected, tone flat.  
-> “Don’t leave anything unattended. Don’t let anyone wander through.”  
-  
-Fight shrugged, noncommittal but accepting.  
-  
-> “And you?” Snout asked, brushing crumbs from her paws.  
-  
-> “I’m going into town as well,” Eli said, checking the ties on his belt.  
-> “To see if there are any contracts posted. We’re overdue for paid work.”  
-  
-Something in his voice shifted—quiet, stern.  
-A different weight beneath the words.  
-  
-He scanned the group once, eyes sharp.  
-  
-> “And one more thing.”  
-  
-All three of them stilled.  
-Even Chatter quit breathing for a beat.  
-  
-Eli’s expression didn’t change, but his tone dropped—low, certain, unyielding.  
-  
-> “No one in Flint Water hears that Joseph was human.”  
-  
-### Wrong People  
-Snout’s ears pricked.  
-Chatter looked confused.  
-Fight raised a brow.  
-  
-Joseph felt a cold flicker in his chest.  
-  
-Snout asked first.  
-  
-> “Why? Folks won’t believe it anyhow.”  
-  
-Eli hesitated—not long, but long enough to be noticeable.  
-  
-> “Because,” he said, choosing each word like he was setting down something fragile,    
-> “the wrong people would want him. And I’m not interested in handing him over to anyone.”  
-  
-Chatter swallowed.  
-  
-> “Who’s the ‘wrong people’?”  
-  
-Eli’s jaw tightened.  
-  
-> “Just keep his secret. That’s enough.”  
-  
-Silence followed, heavy and uneasy.  
-  
-Then Eli straightened.  
-   
-> “Finish eating. We move in ten minutes.”  
-  
-He turned toward the road, the dawn light catching the edges of his fur, and walked off without another word.  
-  
-Joseph watched him go, the bread forgotten in his paws.  
-A tight, nameless knot curled in his stomach.  
-  
-He didn’t understand this place.  
-And right now, he wasn’t sure he wanted to.  
-  
-### Into Flint Water  
-Flint Water rose out of the fields in a jumble of stone, timber, and smoke.  
-   
-The closer they walked, the tighter everything seemed to pinch inward—dirt roads narrowing into pressed, foot-worn paths, buildings crowding shoulder to shoulder as though competing for what little space the town allowed.  
-  
-Joseph stayed close behind Snout and Chatter, trying not to drift or draw attention.  
-   
-Animals moved around them in steady streams: coyotes, bobcats, foxes, a few raccoons and badgers.  
-All roughly Snout’s size or Fight’s height, all walking upright with the effortless confidence Joseph wished he had.  
-Joseph shifted his grip on the walking stick at his side, the wood tapping lightly against the ground as he tried to match their pace.  
-  
-The streets were too narrow for carts.  
-Everything was foot traffic—boots and pawpads scuffing earth, tails brushing coats, merchants calling from doorways stacked with crates and woven baskets.  
-   
-Storefronts pressed tight together, each one with hand-painted signs, wooden counters, and open windows spilling out smells of spice, leather, and warm grain.  
-  
-A sudden swell of pedestrians pressed in from a side street, jostling them.    
-Joseph blinked—Snout vanished behind a moving wall of bodies for half a second.  
-  
-His heart kicked, but he hurried two steps forward and her ears reappeared—Snout weaving ahead with sure, purposeful strides.  
-  
-> “This way,” she said, weaving through a knot of pedestrians.  
-> “Main market’s just ahead.”  
-  
-Chatter trailed beside Joseph, nearly vibrating with excitement.  
-  
-> “Keep up, yeah? Flint Water’s tiny, but it’s a maze if you’re new.”  
-> “Got turned ’round once when I was seven—Snout had to find me by scent.”  
-> He brightened. “Took her three minutes.”  
-  
-Snout tossed a look over her shoulder.  
-  
-> “Only ’cause you hid.”  
-  
-> “Strategically,” Chatter insisted.  
-  
-Joseph managed a small smile but kept his eyes forward.  
-There was too much to look at.  
-Too much to learn.  
-And far too many strangers who seemed to sense he didn’t belong.  
-  
-### Marks & Measures  
-They reached the main stretch of market stalls, a dense, lively strip where voices overlapped in sharp waves.  
-  
-> “Dried roots! Four bundles a mark!”  
-  
-> “Fresh cloth! No moth-holes, I swear it!”  
-  
-> “Two jars for one if you buy before fourth bell!”  
-  
-Snout approached a vendor selling oil flasks.  
-   
-She crossed her arms, ears angled back—a stance Joseph recognized by now: _about to haggle_.  
-  
-> “How much for three?”  
-  
-> “Six marks,” the raccoon behind the counter replied.  
-  
-Snout scoffed.  
-  
-> “They were four last week.”  
-  
-> “Then you should’ve bought ’em last week.”  
-  
-Chatter leaned over the counter eagerly.  
-  
-> “What if we buy four? Does that—”  
-  
-> “Chatter.” Snout’s tone had the weight of an older sibling.  
-  
-He closed his mouth.  
-  
-Five minutes later, she walked away with four flasks for five marks, smugness flicking in her tail-tip.  
-  
-> Chatter whispered to Joseph, “I helped. By stayin’ quiet.”  
-  
-> “You did good,” Snout said dryly.  
-  
-They wound farther through the market, gathering bandages, a coat, and a few small food staples.  
-Joseph carried what he could without slowing them, sticking close enough that his arm brushed Chatter’s once or twice.  
-  
-He didn’t want to lose them.  
-   
-Not in this crowd.  
-   
-Not in a place where every face felt unfamiliar.  
-  
-### Lost  
-They shopped for another hour, weaving through pockets of noise and shifting crowds.  
-Snout bartered for dried fruit, then for flint, then for a tightly sealed jar of ointment whose smell made Joseph’s eyes water.  
-  
-Chatter tried to convince a vendor to include a free wooden spoon “for luck,” and somehow succeeded.  
-Joseph followed close behind, clutching the items he carried—a coat pressed to his chest, a small parcel of salve, and a handful of wrapped bandages.  
-  
-Joseph realized he was drifting half a step behind, the press of bodies nudging him off balance.  
-   
-> “Wait—hold on—”   
-> But his voice was swallowed by the noise.  
-  
-He shifted the goods in his arms, trying not to drop them.  
-Snout’s ears flicked ahead—then dipped out of sight behind a tall badger shouldering his way through the lane.  
-  
-Joseph quickened his pace.  
-   
-He tried to angle around the badger—only for a pair of raccoons to cross in front of him.  
-  
-He pivoted left, thinking Snout had gone that way.  
-   
-Then right, catching a glimpse of brown fur—only to realize it wasn’t Chatter at all.  
-  
-The market twisted around him, every path looking the same, every face unfamiliar.  
-  
-He turned again, heart picking up, trying to remember which direction they’d been walking—  
-  
-—and the crowd surged.  
-  
-Pedestrians pushed between them—bodies brushing, tails flicking, voices overlapping.  
-   
-In seconds he couldn’t tell where he’d come from, much less where Snout and Chatter had gone.  
-  
-He spun in place.  
-  
-Nothing.  
-  
-Only strangers.  
-   
-All moving in different directions.  
-   
-All too tall, too confident, too knowing of this place.  
-  
-Joseph’s breath hitched.  
-   
-He pivoted again, scanning the sea of bodies, looking for any glint of familiar fur.  
-  
-> “Snout?” he called under his breath.  
-> “Chatter?”  
-  
-No answer.  
-   
-No space to even step out of the flow without getting jostled again.  
-  
-He clutched the parcel tighter.  
-   
-His heartbeat skittered.  
-  
-_What do I do? Should I stay put? Should I move? They could be anywhere by now, I—_  
-  
-A ripple moved through the street.  
-  
-### Smoke & Silence  
-A hush—brief, sharp—fell across the stalls.  
-   
-Voices stilled.  
-   
-Movement slowed.  
-  
-Then came the call:  
-  
-> “Make way! Prepare! Clear the path!”  
-  
-The crowd shifted as one, pressing to the sides of the street.  
-Joseph was swept along with them, bumping shoulders, nearly dropping his bundle.  
-He staggered back, finding himself against the front of a closed shop.  
-  
-Down the center of the road came a robed wolf, staff held high, clearing space with authoritative sweeps.  
-  
-Behind him, two figures walked in perfect unison, swinging bronze censers from short chains.  
-Smoke trailed from them in curling ribbons, sweet and sharp, perfuming the air.  
-  
-Behind them came a platform borne by two strong-backed coyotes.  
-On it rested a statue—tall and polished, carved from metal or stone; Joseph couldn’t tell.    
-Its expression was serene, its many-fingered hands outstretched.  
-  
-Four more robed figures surrounded it, each holding an ornate staff capped with carved shapes that glinted in the sun.  
-  
-The crowd murmured, but reverently.  
-  
-Joseph’s skin prickled.  
-   
-A tightness coiled under his ribs.  
-  
-_They’ll expect me to… do something._  
-_Bow, touch the dirt, pray._    
-_I can’t._  
-_I can’t do any of that._  
-  
-### All Kneel  
-The procession slowed as it neared his part of the street.  
-  
-The lead figure lifted his staff high.  
-  
-> “All kneel!”  
-  
-A wave of movement swept outward like a falling curtain.  
-   
-Every animal around Joseph bent to their knees or lowered their bodies, heads bowed low, eyes shut.  
-  
-Joseph froze.  
-   
-His breath left him in a hard, shaky puff.  
-  
-He let the items slip from his arms; they hit the dirt with a soft thud.  
-  
-But he did not bow.  
-  
-A lynx beside him hissed under her breath.  
-   
-> “You have to,” she whispered urgently.  
-> “They’ll see.”  
-  
-Joseph swallowed, but he couldn’t make his body move.  
-   
-Even if he wanted to bow—_even if he tried_—something in him held him upright.  
-Like an invisible hand bracing his spine.  
-  
-Footsteps approached.  
-  
-One of the robed guards peeled away from the procession, staff angled forward like a threat.  
-His hood hid his eyes, but Joseph could feel the glare all the same.  
-  
-> “You,” the figure snapped.  
-> “Why don’t you bow?”  
-  
-Joseph’s mouth dried.  
-   
-His heart pounded disordered beats.  
-  
-He searched frantically for an excuse—    
-_I didn’t hear,_    
-_I didn’t know,_    
-_My knees—_  
-  
-Anything but the truth.  
-  
-But then, somewhere in the panic, a quiet thought settled over him:  
-  
-_Tell the truth._  
-  
-Joseph trembled.  
-   
-He didn’t think it would help.  
-He didn’t think anything would.  
-  
-But he whispered anyway, voice barely steady:  
-  
-> “M-My God doesn’t allow me to bow.”  
-  
-### Wind  
-For a heartbeat, the street went dead silent.  
-  
-The robed figure froze.  
-  
-His grip tightened on the staff—holding it close to his chest.  
-His hooded face angled toward Joseph, studying him.  
-   
-Not surprised.  
-Not confused.  
-   
-Weighing.  
-  
-The air thinned.  
-  
-Joseph’s pulse hammered in his ears.  
-He couldn’t read the expression beneath the hood, but something shifted—like the wolf was deciding whether Joseph was ignorant… or defiant.  
-  
-A slow inhale drew through the figure’s teeth.  
-   
-Then his shoulders squared.  
-  
-Decision made.  
-  
-His lips peeled back in a quiet, controlled snarl.  
-  
-With sudden violence, he raised his staff high, ready to bring it down toward Joseph’s skull.  
-  
-Joseph flinched—his cover slipping to the dirt as his paws shot up by instinct.  
-  
-Then—**wind**.  
-  
-Short.  
-   
-Sudden.  
-   
-Not harsh—just enough to rattle signs, lift dust, and send cloaks fluttering.  
-  
-Everyone felt it.  
-  
-The robed figure froze mid-strike.  
-  
-Joseph slowly lowered his paws.  
-   
-He couldn’t see the wolf’s eyes, but he could see the muzzle beneath the hood—hanging agape in shock.  
-  
-Then, without a word, the figure backed away.  
-   
-Turned sharply.  
-   
-And rejoined the procession as though nothing had happened.  
-  
-Joseph stood trembling, surrounded by a kneeling crowd and scattered belongings in the dirt, wondering what—exactly—had happened.  
-  
-### Marked  
-One by one, the creatures around him began to rise.  
-  
-First a fox, then a lynx, then a broad-shouldered badger—each lifting their head, dusting off their knees, casting uneasy glances in Joseph’s direction.  
-Whispers rippled through the street like wind through dry grass.  
-  
-> “Is he cursed?”    
-> “No… look at him. That was protection.”    
-> “By what?”    
-> “By _whom_?”  
-  
-Dozens of eyes fixed on him—wide, darting, curious, wary.  
-Joseph swallowed hard.  
-Standing among them, he suddenly felt just how small he was.  
-The tallest of them towered over him; even the shortest came up nearly to his ears.  
-He felt like a child who had wandered into a crowd of adults.  
-  
-His heart hammered against his ribs.  
-   
-His legs trembled so badly he wasn’t sure they’d hold.  
-  
-He spun, scanning the crowd for Snout’s spotted coat or Chatter’s tail.  
-Still, nothing.  
-No familiar shapes.  
-No anchors.  
-  
-_I need to get out.  
-I need to get away—now._  
-  
-Before he could lose his nerve, he lunged forward, snatching up the fallen parcel with clumsy paws.  
-A gap opened beside a fruit stall—a narrow, shadowed alley between buildings.  
-  
-He took it.  
-  
-He squeezed through, leaving the murmurs and stares behind, half-running, half-stumbling until the street noise faded to a distant hum.  
-Only when he was deep enough that no one could see him did he stop.  
-  
-The goods slipped from his arms and thudded to the ground.  
-Joseph pressed himself against the wall and curled in on himself, head between his paws.  
-  
-> “Oh God… oh God…”    
-  
-He had no other words—only the shaking that wouldn’t stop, only the fear still ricocheting inside his chest.  
-  
-He stayed like that for a long moment, breaths coming shallow.  
-  
-Then a shift of shadow caught his eye.  
-  
-### One Who Watched  
-A figure stood at the mouth of the alley he’d come from—motionless, watching.  
-  
-The figure stepped closer, something draped over one arm.  
-   
-A blanket.  
-**His** blanket.  
-  
-Joseph blinked—then jolted.  
-   
-He didn't realize he lost it.  
-  
-> “Snout…?” he whispered, desperate.  
-  
-His nose twitched as he sat up.  
-  
-But the scent hit him: warm earth, sharp frost, and a faint fruity sweetness he didn’t recognize.    
-Nothing like Snout.    
-Nothing like Fight or Chatter.    
-No one familiar.  
-  
-The figure slipped into the thin light, revealing the tall, slender shape of a red fox, fur brushed smooth and gleaming copper in the dim.  
-  
-Her gaze was direct, unblinking.  
-  
-> “You forgot this,” she said gently, holding the blanket out.  
-  
-Joseph hesitated, then reached for it with trembling paws.  
-  
-> “...Thanks.”  
-  
-Just as he pulled it toward himself, another head popped into the alley—  
-  
-Chatter, panting, whiskers frazzled.  
-  
-> “There you are!”  
-> “I’ve been lookin’ everywhere!”  
-> “I thought something awful happened—”  
-  
-He halted, breath catching as he finally saw Joseph was safe.    
-  
-> “Next time warn me if you’re gonna do the whole ‘strategic hidin’’ routine, yeah?”  
-  
-Then he noticed the stranger, and his posture hiccuped.    
-  
-> “Uh… who’re you?”  
-  
-The red fox didn’t look at Chatter.  
-Her gaze stayed locked on Joseph’s.  
-  
-> “You’re the one from the square,” she said softly.  
-> “The one who didn’t bow.”  
-  
-He rose to his feet abruptly, gripping the blanket tight against his chest like it might shield him.  
-  
-> “I—I don’t want any more trouble,” he managed.  
-  
-> “Trouble?” She laughed. Musical. Effortless.  
-> “No, little one. Quite the opposite.”  
-  
-Chatter blinked rapidly.  
-  
-> “Little one? He’s—well, okay, he is kinda small, but still—”  
-  
-The fox stepped closer, her tail curling briefly at Joseph’s feet like a test.  
-  
-> “That took courage,” she said.  
-> “Foolish courage, maybe. But courage all the same.”  
-  
-Joseph’s ears flattened.  
-  
-> “I didn’t… I didn’t do it to be brave.”  
-  
-> “I know.”  
-> She tilted her head, studying him with unsettling precision.  
-> “You did it because you couldn’t do anything else.”  
-  
-### Cute  
-Chatter leaned sideways toward Joseph and whispered—loudly—  
-  
-> “Is she… is she flirtin’ with you?”  
-  
-Joseph nearly choked on his own breath.  
-  
-> “I don’t— I don’t think— stop talking.”  
-  
-She smiled, slow and knowing.  
-  
-> “You’re cute when you panic.”  
-  
-Joseph’s whole body bristled.  
-Chatter made a strangled little squeak.  
-  
-She stepped back just enough to give Joseph room, but her eyes never left him.  
-  
-> “My name’s Crystal,” she murmured.  
-> “And you…?”  
-  
-> “J–Joseph,” he stuttered.  
-  
-> “Joseph.”  
-> She tasted the name like it was something sweet.  
-> “It suits you.”  
-  
-Joseph shifted, suddenly desperate to escape before he collapsed into the bricks behind him.  
-  
-> “I— Thank you for the blanket,” he said quickly.  
-> “I should go.”  
-  
-Crystal’s smile softened—not mocking now, but curious, almost thoughtful.  
-  
-> “I hope I see you again,” she said.  
-  
-Joseph didn’t answer.  
-He pulled the blanket around his shoulders, gathered his parcel, and slipped past Chatter, heart hammering.  
-  
-Chatter scrambled after him, whispering frantically,  
-  
-> “Joseph, what just happened? Who was she? Did she really call you cute? Did you hear her—”  
-  
-Joseph just kept walking, ears burning, refusing to look back.  
-  
-Behind them, in the dim alley, Crystal watched him leave—quiet, unreadable—eyes flickering with interest that hadn’t dimmed in the slightest.  
-  
-Chatter and Joseph stepped out of the narrow alley and into the open street.  
-Cool air brushed Joseph's fur, and the distant hum of voices reminded him how loud the world was outside Crystal’s shadow.  
-  
-That was when he realized.  
-  
-> “Oh no...”  
-  
-> “Huh?” Chatter chirped.  
-> "What is it? Are you hurt?"  
-  
-> "I lost my stick."
+
+> "What d'you mean?"  
+
+> "I mean—" Joseph gestured vaguely at everything.  
+> "Everyone's—we're all—and that's—"  
+
+Understanding dawned slowly across Chatter's face.  
+His eyes went wide.  
+His mouth opened.  
+Closed.  
+Opened again.  
+
+Then his whole body started shaking.  
+
+> "You thought—" He choked.  
+> "You thought we were eating—"  
+
+> "I didn't _think_ anything," Joseph said quickly, ears burning.  
+> "I just—it was a moment—"  
+
+Chatter slapped both paws over his mouth, but it was too late—laughter burst through anyway, high and wheezing, doubling him over until his forehead nearly touched the ground.  
+
+> "It's not—" He gasped.  
+> "We don't—Joseph, we're not—"  
+
+Joseph huffed, and threw a stick at him.  
+
+It missed entirely.  
+
+Chatter didn't notice.  
+He was too busy crying, tears streaming down his whiskers, making sounds that couldn't possibly be healthy.  
+
+> "It's not—it's not _us_—" He wheezed.  
+> "It's _game_—wild ones—deer, rabbit, squirrel—_not fox_, Joseph, _not fox_—"  
+
+Joseph buried his face in his paws.  
+
+> "Yes. I get it."  
+
+Chatter kept laughing.  
+And laughing.  
+And laughing.  
+
+Joseph sat there, ears flat, and waited for the ground to swallow him.  
+
+It did not oblige.  
+
+The moment passed, eventually.  
+
+Chatter recovered, mostly, though every few minutes he'd catch Joseph's eye and dissolve into fresh giggles.  
+Joseph bore it with as much dignity as he could muster, which was not much.  
+
+By afternoon, the teasing faded into comfortable quiet.  
+
+Fight worked nearby, grumbling under his breath about strap quality.  
+Joseph watched him out of the corner of his eye—the way the bobcat moved, efficient and sure.  
+The way his attention kept flicking toward the treeline.  
+The way he straightened slightly whenever Eli passed within view.  
+
+Chatter sidled closer, voice low.  
+
+> "They're close, y'know."  
+
+Joseph glanced at him.  
+
+> "Who?"  
+
+> "Eli and Fight." Chatter nodded toward them.  
+> "Fight's been with him longer than anyone."  
+> "Years. Before Snout. Before me."  
+> "Just the two of 'em, runnin' jobs together."  
+
+Joseph watched Fight check a cart wheel, then glance toward Eli again—quick, automatic, like checking a tether.  
+
+> "They seem..." He searched for the word.  
+> "Tied?"  
+
+> "Yeah," Chatter said.  
+> "That's it. Tied."  
+
+He didn't say anything else.  
+
+But Joseph noticed the way Chatter's voice softened when he said it.  
+Like he was watching something he respected but didn't quite understand.  
+
+---  
+
+Eli approached mid-afternoon.  
+The red wolf crossed the camp and crouched beside them, lowering himself to Joseph's level.  
+
+> "You're settling," he said.  
+
+It wasn't a question.  
+
+Joseph shrugged.  
+
+> "Trying to."  
+
+Eli nodded, slow.  
+
+> "I've been thinking," he said.  
+> "About what comes next."  
+
+Joseph's ears flicked.  
+
+> "What do you mean?"  
+
+Eli picked up a piece of kindling, turned it over in his broad paw.  
+
+> "You can't stay hidden forever," he said.  
+> "And you can't live on camp rations and goodwill."  
+> "You need something to _do_. Something that's yours."  
+
+Joseph looked at the kindling in his own paws.  
+
+> "A job?"  
+
+> "Eventually." Eli set the stick down.  
+> "I know someone in Flint Water. Runs a print shop—handbills, notices, that sort of thing."  
+> "He's looking for help. Sorting. Organizing. Nothing heavy."  
+
+Joseph blinked.  
+
+> "You think he'd take me?"  
+
+> "I think you'd surprise yourself." Eli stood.  
+> "I'll talk to him. See if he's willing to take on someone quiet."  
+
+He paused, looking down at Joseph.  
+
+> "You don't have to decide now. Just... think about it."  
+
+He walked away before Joseph could answer.  
+
+Joseph sat there for a long moment, kindling forgotten in his paws.  
+
+_A job._  
+_Work._  
+_A reason to leave camp._  
+
+The thought felt strange.  
+New.  
+Like wearing clothes that hadn't been worn by someone else first.  
+
+He didn't know if he wanted it.  
+
+But he didn't know if he wanted to stay hidden forever, either.  
+
+---  
+
+Night fell slow and cold.  
+The fire burned low and steady, casting long shadows across the clearing.  
+Eli sat with his back against a log, legs stretched out, gaze fixed on the flames.  
+Fight leaned against a cart nearby, arms crossed, tail occasionally twitching as embers popped.  
+Snout tended the fire with small adjustments, pushing sticks into the glow.  
+
+Chatter sprawled on his stomach, chin propped on his paws, staring into the warmth like it held secrets.  
+
+Joseph sat apart, blanket wrapped tight, knees drawn up.  
+Close enough to feel the heat.  
+Far enough to feel alone.  
+
+For a while, no one spoke.  
+
+Then Chatter rolled onto his side, whiskers twitching.  
+
+> "Hey," he said.  
+> "Joseph."  
+
+Joseph looked up.  
+
+> "You know what I've been thinking about all day?"  
+
+A bad feeling settled in Joseph's stomach.  
+
+> "What?"  
+
+Chatter's face split into a grin.  
+
+> "The meat."  
+
+Joseph went very still.  
+
+Snout glanced up from the fire.  
+Fight's ear flicked.  
+Even Eli's gaze shifted—slow, curious.  
+
+Chatter sat up, eyes bright with barely contained glee.  
+
+> "You should've seen him," he said.  
+> "He just—froze. Pointed at the drying meat like it was a—a ghost. Asked where it came from. And then his face—"  
+Chatter dissolved into giggles.  
+> "He thought—he actually _thought_—"  
+
+> "Chatter." Joseph's voice cut through, sharp and sudden.  
+
+The otter stopped.  
+
+Everyone looked at Joseph.  
+
+Joseph's ears were flat.  
+His jaw tight.  
+His paws curled into the edge of his blanket.  
+
+> "I just wanted to know where the meat came from," he said, too fast, too controlled.  
+> "That's all. There was no—I didn't _think_ anything."  
+
+The fire crackled.  
+
+Fight's brow slowly rose.  
+
+Snout's expression was unreadable.  
+
+Eli said nothing at all.  
+
+Chatter blinked, caught mid-laugh, uncertain now.  
+
+> "O-oh," he said.  
+> "I just thought it was funny, is all."  
+
+Joseph didn't answer.  
+He stared at the fire, refusing to meet anyone's eyes.  
+His pulse hammered.  
+His ears burned.  
+
+_Stop looking at me._  
+_Just stop._  
+
+The silence stretched.  
+
+Then Fight snorted.  
+
+> "Fox," he said, flat and dry,  
+> "you're a terrible liar."  
+
+Joseph's head snapped up.  
+
+> "I'm _not_ lying—"  
+
+> "You absolutely thought we were eatin' fox."  
+
+> "I didn't—"  
+
+> "You pointed at the meat like it bit you."  
+
+> "It was a _confused_ point—"  
+
+> "A confused point." Fight's tail flicked.  
+> "That's a new one."  
+
+Snout's mouth twitched.  
+
+Joseph saw it.  
+
+> "You're laughing at me," he said flatly.  
+
+> "I'm not," Snout said, voice perfectly level.  
+> "I'm just... appreciating the moment."  
+
+> "That's the same thing."  
+
+> "It's really not."  
+
+Chatter perked up again, hope flickering in his eyes.  
+
+> "So... can I still tell the story?"  
+
+> " _No_."  
+
+Eli shifted.  
+
+The movement was small, but everyone noticed.  
+The red wolf's gaze hadn't left Joseph—not accusing, not amused.  
+Just... watching.  
+
+> "You really didn't know," Eli said quietly.  
+> "Where the meat comes from."  
+
+It wasn't a question.  
+
+Joseph hesitated.  
+Then shook his head.  
+
+> "No. I didn't."  
+
+Eli nodded slowly, as if filing the information away.  
+
+> "Where you're from," he said.  
+> "What did you eat?"  
+
+Joseph blinked at the shift.  
+
+> "Uh. Plants. Mostly. Grains." He stopped. Swallowed.  
+> "Some meat."  
+
+The words sat awkwardly in the air.  
+
+Fight waited.  
+Snout watched.  
+Even Chatter had gone still, sensing something shifting beneath the surface.  
+
+Joseph's ears flattened.  
+
+> "It's just—" He gestured vaguely, searching.  
+> "Where I'm from, meat comes from... animals. Obviously."  
+> "But you don't... I mean, you don't usually think about it like that."  
+> "It's just there. In a shop. Wrapped up. You don't see where it—"  
+
+He stopped again, heat crawling up his neck.  
+He realized, suddenly, what he was saying.  
+
+To _animals._  
+Who _were_ animals.  
+
+Who probably had neighbors who were deer.  
+Friends who were rabbits.  
+
+His mouth opened.  
+Closed.  
+Opened again.  
+
+> "I—" He looked away.  
+> "This is weird to talk about. With you."  
+
+Silence.  
+
+Then Fight grunted.  
+
+> "Weird how?"  
+
+Joseph gestured helplessly at all of them.  
+
+> "You're—" He waved at Fight's fur.  
+> "And I'm—" At his own.  
+> "And the meat is from—" He gave up.  
+> "I don't know how to say it without sounding like I'm describing something horrible."  
+
+Snout's expression softened, just slightly.  
+
+> "We know where meat comes from, Joseph."  
+
+> "I know you _know_," he said quickly.  
+> "That's not—I'm not trying to—" He pressed his paws to his face.  
+> "I'm making this worse."  
+
+Chatter tilted his head.  
+
+> "You're worried we'll think you're awful for eating meat?"  
+
+Joseph peeked through his paws.  
+
+> "...Yes?"  
+
+Chatter blinked.  
+
+> "But... everyone eats meat."  
+
+> "Not where I'm from!"  
+
+Fight's brow furrowed.  
+> "Wait.  
+Nobody ate meat where you're from?"  
+
+> "No, we _did_, it's just—" Joseph dropped his paws.  
+> "The animals we ate weren't... us."  
+> "They were different. They didn't talk. Didn't wear clothes. Didn't have names."  
+> "It was just... food."  
+
+He trailed off, realizing how thin that sounded.  
+
+Eli spoke for the first time.  
+
+> "And now?"  
+
+Joseph looked at him.  
+
+> "Now what?"  
+
+> "Now you're here." Eli's voice was calm. Level.  
+> "With us. And we're not so different from the ones you used to eat."  
+
+Joseph's stomach clenched.  
+
+> "I know," he said quietly.  
+> "I think about it."  
+
+The fire crackled.  
+
+No one spoke.  
+
+Then Snout shrugged one shoulder.  
+
+> "Don't," she said simply.  
+
+Joseph blinked.  
+> "What?"  
+
+> "Don't think about it." She nudged a log with her paw.  
+> "We're not prey. We're not food. We're just... us."  
+> "Whatever we were before, we're this now. That's all that matters."  
+
+Joseph stared at her.  
+It was simple.  
+Too simple.  
+And yet.  
+
+Fight snorted.  
+
+> "Besides," he said,  
+> "if you started lookin' at us like dinner, we'd notice."  
+
+Chatter gasped.  
+
+> "Would you _eat_ us, Joseph?"  
+
+> " _No_ , Chatter."  
+
+> "Just checking!"  
+
+Snout's tail flicked with amusement.  
+Even Eli's mouth curved, just slightly.  
+
+Joseph pulled his blanket tighter, ears still warm.  
+But underneath the embarrassment, something loosened.  
+
+_They're not horrified._  
+_They're just... here._  
+
+He didn't know what to do with that.  
+
+The conversation drifted after that.  
+Quiet settled back in, comfortable and worn.  
+Joseph listened more than he spoke, letting the fire's warmth seep into his bones.  
+
+At some point, he looked up.  
+
+The stars were coming out one by one—faint at first, then brighter, until the whole dome above them was scattered with light.  
+
+He found the Little Dipper first.  
+
+Then the Big Dipper.  
+
+The same stars.  
+The same patterns.  
+The same sky he'd stared at from his backyard a lifetime ago.  
+
+He didn't realize he'd gone still until Snout's voice came quietly from beside him.  
+
+> "You alright?"  
+
+Joseph blinked.  
+Looked down.  
+Nodded.  
+
+> "Yeah. Just..." He gestured vaguely upward.  
+> "Stars."  
+
+Snout followed his gaze.  
+Frowned slightly.  
+
+> "What about them?"  
+
+> "They're the same." His voice came out smaller than he intended.  
+> "Where I'm from. These stars. The same ones."  
+
+Snout didn't respond right away.  
+She just looked up with him, ears angled back.  
+
+Chatter noticed and craned his neck.  
+
+> "What's the same?"  
+
+Joseph hesitated.  
+Then pointed.  
+
+> "That one. The Little Dipper. And that one—the Big Dipper. We had names for them. The same names."  
+
+Chatter squinted.  
+
+> "They look like... scoops?"  
+
+> "Yeah." A faint smile tugged at Joseph's mouth.  
+> "Yeah, exactly."  
+
+Fight grunted from his spot against the cart.  
+
+> "Stars are stars. Don't matter where you're from."  
+
+Joseph's smile faded.  
+
+_Don't matter._  
+
+But it did matter.  
+Didn't it?  
+
+He looked back up, searching the familiar patterns.  
+The same stars.  
+The same sky.  
+
+Everything else had changed.  
+His body.  
+His world.  
+His entire existence.  
+
+But not this.  
+
+_It's still the same_, he thought.   
+_Nothing changed up there._  
+
+_Everything changed down here._  
+
+His family's faces rose in his mind—clear as ever.  
+His mother's smile.  
+His father's steady voice.  
+His brother's laugh.  
+His sister's habit of leaving cups everywhere.  
+
+He waited for the ache.  
+
+It didn't come.  
+
+Not the way it should.  
+
+He felt the shape of it—the place where missing _ought_ to live—but it was hollow.  
+Distant.  
+Like remembering pain instead of feeling it.  
+
+_What's wrong with me?_  
+
+He stared at the stars.  
+
+_I want to go home._  
+_I do._  
+_I just... don't know how to feel it._  
+
+The fire crackled.  
+
+No one spoke.  
+
+Then, quietly—so quietly Joseph almost missed it—Eli's voice came from across the flames.  
+
+> "Same stars."  
+
+Joseph looked at him.  
+
+Eli's gaze was fixed upward, red fur silvered in the starlight.  
+
+> "Means something," he said.  
+> "Doesn't it?"  
+
+Joseph didn't know how to answer.  
+
+_Means what?_ he wanted to ask.   
+_That I'm still connected? That I'm still me?_  
+_That nothing's changed and everything has, all at once?_  
+
+But the words wouldn't come.  
+
+So he just nodded, small and uncertain.  
+
+> "Yeah," he whispered.  
+> "I think so."  
+
+Eli didn't push.  
+Didn't explain.  
+He just kept looking up, steady and present, as if the stars themselves were enough.  
+
+Joseph watched him for a moment.  
+Then looked back at the sky.  
+
+The Little Dipper.  
+The Big Dipper.  
+
+The same.  
+
+He sat with that, letting it settle into his chest alongside everything else—the warmth of the fire, the quiet presence of the group, the vast cold spread of stars above.  
+
+_Same stars_, he thought again.  
+_Same God._  
+
+The ache still didn't come.  
+But something else did—small, fragile, barely there.  
+
+A thread.  
+A tether.  
+
+Proof, maybe, that he hadn't been completely cut loose.  
+
+He pulled his blanket tighter and kept looking up.  
+Behind him, the fire crackled on.  
+No one rushed him. No one filled the silence.  
+They just stayed—present and unhurried—letting him have the moment, letting him hold it.  
+
+It wasn't home.  
+But it was something.
