@@ -7,11 +7,9 @@ navigation:
     href: /1/7
   - body: First
     href: /1/1
-  - body: Next (Coming Soon!)
+  - body: Next
     href: /1/9
 ---
-
-(Revision: Pearl is now called Soot.)
 
 Flint Water was quieter in the evening.  
   

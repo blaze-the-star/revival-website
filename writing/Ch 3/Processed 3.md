@@ -649,7 +649,7 @@ She dropped her paw, meeting his eyes again—searching, aching.
 
 > “Nothing,” she said quickly.  
 > Then, more controlled:  
-> “My name’s Pearl.”
+> “My name’s Soot.”
 
 > “Joseph.”
 
@@ -670,7 +670,7 @@ Joseph turned away, Chatter tugging at his sleeve.
 
 They disappeared into the street.
 
-Pearl remained in the alley, heart hammering, breath tight.
+Soot remained in the alley, heart hammering, breath tight.
 
 Stupid.  
 Dangerous.

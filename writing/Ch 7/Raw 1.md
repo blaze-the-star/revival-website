@@ -40,8 +40,8 @@
 - Fight tells her its the street between Faint Line and Main
 - Snout groans
 - Joseph asks whats wrong
-- Snout tells him that's the street Pearl works
-	- She says Pearl is a troublemaker and a thief, and that she tried to steal from Eli
+- Snout tells him that's the street Soot works
+	- She says Soot is a troublemaker and a thief, and that she tried to steal from Eli
 - Joseph asks why she doesn't arrest her
 - Snout says they did, but she was released for lack of evidence
 - Fight asks again if she's taking the job
@@ -51,37 +51,37 @@
 ---
 
 General points I want from this chapter
-- Pearl provokes anyone who'll listen to her to provide whatever information she can about Joseph
-	- Pearl can't get Joseph's devotion to God out of her mind and she doesn't know why.
+- Soot provokes anyone who'll listen to her to provide whatever information she can about Joseph
+	- Soot can't get Joseph's devotion to God out of her mind and she doesn't know why.
 	- She wants answers, she wants to meet him again, but she doesn't want anyone else to know that.
-- Snout and Pearl interact
-	- Pearl is already talking to others about Joseph
+- Snout and Soot interact
+	- Soot is already talking to others about Joseph
 - They clearly don't like each other
 	- (The background for this, Eli and his team believe she tried to steal from them and apprehended her)
 		- (She was released due to lack of evidence against her)
-	- (Pearl has caused other trouble for Eli in the past)
-	- With others, Pearl strikes up casual conversation about Joseph, but with Snout she breaths vitriol
-- Snout has a job to do where Pearl works
-	- Maybe Snout patrols the street of the establishment Pearl works at, idk
+	- (Soot has caused other trouble for Eli in the past)
+	- With others, Soot strikes up casual conversation about Joseph, but with Snout she breaths vitriol
+- Snout has a job to do where Soot works
+	- Maybe Snout patrols the street of the establishment Soot works at, idk
 	- The same street where Snout last Joseph (the same street where Joseph didn't bow)
-- Pearl is bringing up "that fox who didn't bow" to whoever she meets
+- Soot is bringing up "that fox who didn't bow" to whoever she meets
 	- She says she heard that Joseph was some unimportant traveler who already left town immediately after the procession
 		- (Intentionally wrong to provoke anyone to give her information)
 		- (Fishing for one piece of information in particular: where is he now?)
 	- And some other stuff I don't know
-- Pearl expects Snout and Eli's group would be the ones on the hunt for Joseph if he was wanted
-	- Pearl downplays any significance Joseph has
-		- (Pearl wants Joseph safe)
+- Soot expects Snout and Eli's group would be the ones on the hunt for Joseph if he was wanted
+	- Soot downplays any significance Joseph has
+		- (Soot wants Joseph safe)
 		- Downplays the seriousness
 		- Downplays the intent
 		- Downplays the miracle
 - Snout is defensive of Joseph
-	- Snout doesn't trust Pearl and hates her interest in Joseph
-	- Hates how much Pearl is talking about him and bringing attention to him
+	- Snout doesn't trust Soot and hates her interest in Joseph
+	- Hates how much Soot is talking about him and bringing attention to him
 	- She can't do anything to stop her from talking to others about him
-- Pearl studies the reactions Snout gives
+- Soot studies the reactions Snout gives
 	- None of them are what she expects from Snout, the contract law enforcer
-- Pearl works at a stall selling medicinal items
+- Soot works at a stall selling medicinal items
 	- A sketchy joint
 	- Snake oil-like products mixed in with actual medicinal items
 	- Across from where Joseph stood and didn't bow
@@ -89,66 +89,66 @@ General points I want from this chapter
 Scene Framing:
 - Flint Water
 	- Narrow dirt street
-	- Pearl works a storefront
+	- Soot works a storefront
 		- Sells medicinal items
 		- Some of the items have medical use, while others are just snake oil
-- Start with Pearl talking to strangers about Joseph and why she's doing it
-- After the conversation is over and she's alone, Pearl expresses frustration over finding no one who knows where Joseph is despite doing this for days
+- Start with Soot talking to strangers about Joseph and why she's doing it
+- After the conversation is over and she's alone, Soot expresses frustration over finding no one who knows where Joseph is despite doing this for days
 	- How could no one know where he is?
-	- Pearl saw him outside Flint Water at least the day after bowing incident, so he didn't leave immediately.
-- Pearl looks out of the stall across the street, reminded of Joseph and how he didn't bow, and what he said to her when she confronted him
-	- Pearl can't get Joseph's devotion to God out of her mind and she doesn't know why.
+	- Soot saw him outside Flint Water at least the day after bowing incident, so he didn't leave immediately.
+- Soot looks out of the stall across the street, reminded of Joseph and how he didn't bow, and what he said to her when she confronted him
+	- Soot can't get Joseph's devotion to God out of her mind and she doesn't know why.
 	- She wants answers, she wants to meet him again, but she doesn't want anyone else to know that.
-- Then Pearl sees Snout walking down the street
+- Then Soot sees Snout walking down the street
 	- (The background for this, Eli and his team believe she tried to steal from them and apprehended her)
 		- (She was released due to lack of evidence against her)
-	- (Pearl has caused other trouble for Eli in the past)
-- Pearl thinks could she be here investigating into Joseph?
+	- (Soot has caused other trouble for Eli in the past)
+- Soot thinks could she be here investigating into Joseph?
 	- The thought scares her
-- Pearl talks to Snout
-	- Pearl had been conversational with everyone else
-	- but with Snout, Pearl became audibly irritated by Snout's presence
+- Soot talks to Snout
+	- Soot had been conversational with everyone else
+	- but with Snout, Soot became audibly irritated by Snout's presence
 		- Not smooth or sly
 		- Open disliking of Snout
-	- Pearl asks her if she's here investigating that fox who didn't bow
-- Snout matches Pearl's tone
+	- Soot asks her if she's here investigating that fox who didn't bow
+- Snout matches Soot's tone
 	- She says what I'm here for is none of your business
-- Pearl continues prodding, talking about Joseph
+- Soot continues prodding, talking about Joseph
 - Snout shoots down any conversation about Joseph
-	- This makes Pearl uneasy because it looks like Snout is investigating Joseph
+	- This makes Soot uneasy because it looks like Snout is investigating Joseph
 
 Please use these points to write some of chapter 7 of Revival, ~600 words.
 
 ---
 
 - Snout continues patrolling up and down the street
-- Pearl talks with customers as they come and go
+- Soot talks with customers as they come and go
 	- She asks about Joseph to anyone who'll listen, but her strategy is different now
-	- Pearl, aware Snout is listening, tries to provoke her to intervene and say something about Joseph
+	- Soot, aware Snout is listening, tries to provoke her to intervene and say something about Joseph
 - I don't know how Snout would respond
-- Snout eventually does intervene, getting close and asking what Pearl is doing
-	- Pearl smells scents on Snout 
+- Snout eventually does intervene, getting close and asking what Soot is doing
+	- Soot smells scents on Snout 
 		- Coyote (of course)
 		- Camp fire smoke
 		- Wolf
 		- Otter
 		- Fox
-	- (Pearl doesn't think anything of the smells)
-- Pearl feigns innocence
+	- (Soot doesn't think anything of the smells)
+- Soot feigns innocence
 - Snout doesn't buy it and presses in
-	- Pearl turns the question back on Snout
-- Pearl realizes the fox smell might be Joseph
+	- Soot turns the question back on Snout
+- Soot realizes the fox smell might be Joseph
 - Snout, fed up, returns to patrolling
-- Before Snout leaves, Pearl says: Say hello to the lil fox for me
+- Before Snout leaves, Soot says: Say hello to the lil fox for me
 - Snout pauses, then walks away
-- Pearl's heart beats fast
+- Soot's heart beats fast
 	- Joseph has already been apprehended by Eli's group
 
 ---
 
 - Switch to Snout's POV
 - Snout continues her patrols through the day
-- Pearl seems to have stopped her aggravated pressing and Snout doesn't know whether to be relieved or worried
+- Soot seems to have stopped her aggravated pressing and Snout doesn't know whether to be relieved or worried
 
 - At the end of her shift she meets up with her contact and then returns to camp
 - Eli meets Snout as she approaches with pleasantries
@@ -159,14 +159,14 @@ Please use these points to write some of chapter 7 of Revival, ~600 words.
 	- With that out of the way, Eli is ready to hear Snout's report
 
 - Snout pauses
-	- Pearl comes to her mind and how she seems to be probing for information on Joseph
-	- Snout is worried what Pearl wants with Joseph and thinks Pearl might pose a danger to him
-	- Pearl is also worried about how Joseph feels, looking depressed and home-sick
+	- Soot comes to her mind and how she seems to be probing for information on Joseph
+	- Snout is worried what Soot wants with Joseph and thinks Soot might pose a danger to him
+	- Soot is also worried about how Joseph feels, looking depressed and home-sick
 	- Snout doesn't want to risk giving more reason to bar up Joseph more
-	- Its not like Snout's interactions with Pearl were anything of note before
+	- Its not like Snout's interactions with Soot were anything of note before
 		- That was how she justified it
 
-- Snout gives Eli the report without mentioning Pearl
+- Snout gives Eli the report without mentioning Soot
 	- A normal uneventful day
 	- No trouble
 

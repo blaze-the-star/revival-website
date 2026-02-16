@@ -548,7 +548,7 @@ When he dared glance up, she was staring at him like he’d stepped out of a sto
 
 ### Section 10 — Dangerous
 
-Pearl didn’t answer him right away.
+Soot didn’t answer him right away.
 
 She stood there with the lake at her back, dark fur stirred by the breeze, eyes fixed on Joseph like she was trying to decide what _kind_ of thing he was.  
 Not just who—but _what_.
@@ -561,7 +561,7 @@ Or a flame that hasn’t burned anyone—yet.
 
 Joseph shifted under it, ears twitching, paws digging faint lines into the dirt. He felt suddenly exposed, as though the prayer still clung to him, visible in ways he couldn’t hide.
 
-Pearl’s nose wrinkled, just barely.
+Soot’s nose wrinkled, just barely.
 
 “Ya ain’t loud,” she said at last.  
 “Ya ain’t preachin’.”  
@@ -578,7 +578,7 @@ He blinked.
 
 “I—I don’t—” Joseph started, not even sure what he meant to deny.
 
-Pearl shook her head, sharp and final, cutting him off without raising her voice.
+Soot shook her head, sharp and final, cutting him off without raising her voice.
 
 “Folks who shout about gods are easy,” she said.  
 “Folks who bow are easy.”  
@@ -591,7 +591,7 @@ Her eyes flicked to his chest. To the place where his heart beat too fast.
 
 The wind slid across the lake, rippling the surface. For a moment, the world felt very still—like it was holding its breath.
 
-Pearl exhaled.
+Soot exhaled.
 
 Then she turned.
 

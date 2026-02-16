@@ -11,7 +11,7 @@ navigation:
     href: /1/7
 ---
 
-(Revision: Pearl is now called Soot.)
+(Revision: Soot is now called Soot.)
 
 Flint Water was quieter in the evening.  
   

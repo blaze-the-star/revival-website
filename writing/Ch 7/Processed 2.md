@@ -103,7 +103,7 @@ Joseph glanced up.
   
 Snout exhaled through her nose.  
   
-> “That’s where Pearl works,” she said.  
+> “That’s where Soot works,” she said.  
 > “She’s a troublemaker. And a thief.”  
 > “Tried to steal from Eli once.”  
   
@@ -171,7 +171,7 @@ The vixen’s ears twitched.
 > “Heard somethin’,” she said.  
 > “Crowd got spooked. Priest lost his temper.”
 
-> “Anyone know who it was?” Pearl pressed, still mild.  
+> “Anyone know who it was?” Soot pressed, still mild.  
 > “The fox what stayed standin’?”
 
 The buck shook his head.
@@ -297,11 +297,11 @@ Her ears angled back a fraction, expression flat.
   
 She spoke calmly.  
   
-> “Morning, **Pearl**.”  
+> “Morning, **Soot**.”  
   
 The name landed like a stone dropped into water.  
   
-Pearl didn’t bother pretending friendliness.  
+Soot didn’t bother pretending friendliness.  
 It slid off her like a discarded mask.  
   
 > “What’re you here for?” she demanded.  
@@ -312,7 +312,7 @@ Snout’s gaze held steady.
   
 > “What I’m here for is none of your business.”  
   
-Pearl’s tail lashed once behind her counter.  
+Soot’s tail lashed once behind her counter.  
 She leaned forward, claws tapping the wood.  
   
 > “You here investigatin’ that fox?”  
@@ -321,22 +321,22 @@ Snout held her gaze a beat too long.
 No answer. No denial.  
 Just that same guarded look settling in.  
   
-Pearl’s stomach tightened.  
+Soot’s stomach tightened.  
   
 Maybe she was seeing what she feared.  
 …But it felt an awful lot like confirmation.  
   
-Pearl pressed harder, voice low and pointed.  
+Soot pressed harder, voice low and pointed.  
   
 > “The one who didn’t bow,” she said.  
 > “The one the shrine folk near split open.”  
 > “That him? That what you’re sniffin’ for?”  
   
-Snout’s tone sharpened to match Pearl’s.  
+Snout’s tone sharpened to match Soot’s.  
   
 > “I’m not talkin’ about him with *you.*”  
   
-That refusal—clean, immediate—hit Pearl like a door slammed in her face.  
+That refusal—clean, immediate—hit Soot like a door slammed in her face.  
   
 Unease crawled up her spine.  
   
@@ -345,39 +345,39 @@ Then Snout _knew_.
   
 Or she was trying to know.  
   
-Pearl’s eyes narrowed, searching Snout’s face, trying to read the shape of her thoughts.  
+Soot’s eyes narrowed, searching Snout’s face, trying to read the shape of her thoughts.  
   
 And finding—nothing.  
   
 That was the worst part.  
   
-Pearl could usually tell what people wanted.  
+Soot could usually tell what people wanted.  
 Coin. Comfort. A lie that tasted sweet.  
   
-But Snout stood there unreadable, and Pearl suddenly felt like she’d stepped too close to something sharp without seeing the edge.  
+But Snout stood there unreadable, and Soot suddenly felt like she’d stepped too close to something sharp without seeing the edge.  
   
 She swallowed, keeping her voice biting so nobody would hear the fear under it.  
   
-> “Fine,” Pearl said.  
+> “Fine,” Soot said.  
 > “Keep your secrets.”  
   
-Snout held her gaze a moment longer, then turned as if Pearl wasn’t there at all.  
+Snout held her gaze a moment longer, then turned as if Soot wasn’t there at all.  
   
-Pearl watched her walk away down the narrow dirt street, heart tapping hard against her ribs.  
+Soot watched her walk away down the narrow dirt street, heart tapping hard against her ribs.  
   
 Because if Snout was investigating Joseph—  
-—then Pearl wasn’t the only one who thought he was dangerous.  
-And that meant they were closer than Pearl had been to finding him.  
+—then Soot wasn’t the only one who thought he was dangerous.  
+And that meant they were closer than Soot had been to finding him.  
 
 And suddenly, that meant timing mattered.  
   
 ---  
   
 Snout continued her slow circuit of the street, paws scuffing the packed dirt, ears turning at every raised voice or clatter of crates.  
-Back and forth. Past Pearl’s stall. Away again.  
+Back and forth. Past Soot’s stall. Away again.  
 Never lingering.  
   
-Pearl kept working.  
+Soot kept working.  
   
 Customers came and went—quick palms, clink of marks, murmured thanks.  
 She smiled, nodded, wrapped jars...
@@ -391,7 +391,7 @@ The badger frowned. Shook his head.
   
 She wrapped the salve and kept talking, voice easy.  
 A raccoon lingered.  
-Pearl leaned in conspiratorially—not to him, really, but past him.  
+Soot leaned in conspiratorially—not to him, really, but past him.  
   
 > “Quiet little swift fox,” she said, not lowering her voice quite enough.  
 > “Looked like he was waitin’ for permission to breathe.”  
@@ -399,7 +399,7 @@ Pearl leaned in conspiratorially—not to him, really, but past him.
 Nothing. Shrugs. Blank looks.  
 But she felt it—attention tugging at the air—the way it does when someone is listening hard.  
   
-Pearl let the moment stretch.  
+Soot let the moment stretch.  
   
 Then—  
   
@@ -428,7 +428,7 @@ The raccoon followed, casting a look over his shoulder before melting back into 
 Space opened between the stall and the street.  
   
 Only then did Snout step closer.  
-Close enough for Pearl to catch her scent:  
+Close enough for Soot to catch her scent:  
 
 Coyote musk beneath travel-worn leather, old campfire smoke ground into cloth.  
 Wolf, too. Otter. And fox—light, fresh, threaded through the rest like it hadn’t learned how to stand on its own yet.  
@@ -437,7 +437,7 @@ Snout leaned in—claiming ground.
   
 > “What are you doing?” She asked, voice low.  
   
-Pearl blinked with all wide-eyed honesty.  
+Soot blinked with all wide-eyed honesty.  
   
 > “Sellin’ remedies,” she said.  
 > “Same as always.”  
@@ -446,7 +446,7 @@ Snout’s gaze didn’t move.
   
 > “You’re fishing.”  
   
-Pearl tilted her head and smiled.  
+Soot tilted her head and smiled.  
   
 > “Funny. I was thinkin’ the same about you.”  
   
@@ -463,15 +463,15 @@ Snout’s jaw tightened.
 Whatever answer she might’ve given stayed put.  
 She turned away instead, shoulders stiff, and resumed her patrol without another word.  
   
-Pearl watched her go.  
+Soot watched her go.  
   
 > “Say hello to the lil' fox for me,” she called after her, sweet as honey.  
   
 Snout paused for just a breath—then kept walking.  
   
-Pearl’s heart hammered—fast and uneven now, the pleasure gone.  
+Soot’s heart hammered—fast and uneven now, the pleasure gone.  
   
-By the time Snout disappeared into the press of the street, Pearl knew better.  
+By the time Snout disappeared into the press of the street, Soot knew better.  
   
 He wasn’t gone.  
   
@@ -497,7 +497,7 @@ A pair of coyotes posting up where they didn’t need to be.
   
 And always, in the corner of her vision, the black fox at her stall.  
   
-*Pearl.*  
+*Soot.*  
   
 After the exchange, the fox’s bite seemed to dull.  
 The sharp questions stopped.  
@@ -552,13 +552,13 @@ Snout’s ears twitched.
 Joseph’s dull eyes flashed in her mind.  
 The way he’d said _home_ like it was a place you could bleed out from missing.  
   
-And then Pearl’s voice—sweet as honey when it wanted to be.  
+And then Soot’s voice—sweet as honey when it wanted to be.  
   
 _Say hello to the lil fox for me._  
   
 Snout held her face still.  
   
-Pearl had been probing.  
+Soot had been probing.  
 Not enough to name as trouble, not enough to justify dragging Joseph deeper into the cage Eli had built around him.  
 And Snout could not stomach being the one to tighten it further—not when Joseph already looked like he was surviving on breakfast and habit.  
   

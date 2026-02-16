@@ -132,7 +132,7 @@ He couldn’t explain further. Not here. Not with strangers listening.
 And not to her—someone who already seemed to see too much.
 
 Snout watched them both, saying nothing, but her ears were angled forward, taking in every word.  
-Her mind, however, was elsewhere—back on the patrol route, back to Pearl’s stall, to the way the black fox had smiled when she said, _Say hello to the lil’ fox for me._
+Her mind, however, was elsewhere—back on the patrol route, back to Soot’s stall, to the way the black fox had smiled when she said, _Say hello to the lil’ fox for me._
 
 Snout hadn’t told Eli.  
 She’d called it “uneventful.”  
@@ -183,18 +183,18 @@ Joseph stiffened.
 
 > “How do you know who I travel with?”
 
-> “Flint Water’s small. Eli’s reputation isn’t.” She paused. “Neither is Pearl’s.”
+> “Flint Water’s small. Eli’s reputation isn’t.” She paused. “Neither is Soot’s.”
 
 The name landed like a stone.  
 Snout’s ears snapped forward.
 
-> “You know Pearl?”
+> “You know Soot?”
 
-> “Everyone knows Pearl,” Crystal said lightly. “She asks questions. Sells remedies. Watches everything.” Her eyes returned to Joseph. “She’s been asking about a fox who didn’t bow.”
+> “Everyone knows Soot,” Crystal said lightly. “She asks questions. Sells remedies. Watches everything.” Her eyes returned to Joseph. “She’s been asking about a fox who didn’t bow.”
 
 Joseph’s breath caught. The stew turned to clay in his stomach.
 
-Snout’s earlier unease tightened into a cold knot. She’d hoped Pearl’s curiosity was idle. Now it had a witness.
+Snout’s earlier unease tightened into a cold knot. She’d hoped Soot’s curiosity was idle. Now it had a witness.
 
 > “What did you tell her?” Snout asked, her voice carefully level.
 
@@ -206,7 +206,7 @@ Joseph pushed his bowl away. His appetite was gone, replaced by the old, familia
 
 Crystal’s expression sobered.
 
-> “Because you stood when everyone else knelt. And you’re still here.” She hesitated. “That either makes you very brave or very lost. Either way… you shouldn’t face Pearl alone.”
+> “Because you stood when everyone else knelt. And you’re still here.” She hesitated. “That either makes you very brave or very lost. Either way… you shouldn’t face Soot alone.”
 
 > “I’m not alone,” Joseph said, but the words sounded small.
 
@@ -232,7 +232,7 @@ Snout walked beside Joseph, silent for a long moment.
 
 > “Do you think she’s dangerous?”
 
-> “I think she’s a player. And I think Pearl’s closer than I told Eli.”
+> “I think she’s a player. And I think Soot’s closer than I told Eli.”
 
 Joseph pulled his coat tighter.
 
@@ -241,7 +241,7 @@ Joseph pulled his coat tighter.
 > “We tell Eli,” Snout said, her voice grim. “And we don’t come back to town until we know who’s watching, and why.”
 
 As they walked back toward camp, Flint Water’s lights glowing behind them, Joseph felt the night press in from all sides.  
-Crystal’s amber eyes. Pearl’s unseen gaze. The hooded figure in the tavern. Eli’s unspoken rules.
+Crystal’s amber eyes. Soot’s unseen gaze. The hooded figure in the tavern. Eli’s unspoken rules.
 
 And beneath it all, the quiet, persistent whisper:
 

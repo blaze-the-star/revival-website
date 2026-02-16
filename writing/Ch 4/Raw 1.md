@@ -151,7 +151,7 @@ you are good, you are so—so good.
 
 ~300 words
 Joseph jolted from prayer by splashing
-Introduce Pearl, washing clothes
+Introduce Soot, washing clothes
 
 - Joseph is stirred from his imagination to his body by a loud sound (Splashing)
 	- Describe it as if he's being yanked back into the physical place where he was praying, as if he forcefully moved
