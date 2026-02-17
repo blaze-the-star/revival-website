@@ -52,9 +52,9 @@ $2
 ```
 ### Quotes to open-quotes
 ```find
-
+["“]([^"“"]*)["”]
 ```
 ```replace
-
+“$1”
 ```
 

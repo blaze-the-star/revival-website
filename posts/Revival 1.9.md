@@ -1,16 +1,16 @@
 ---
-title: "Revival Ch.9"
-date: 2026-02-16
-permalink: /1/9
-navigation:
-  - body: Prev
-    href: /1/6
-  - body: First
-    href: /1/1
-  - body: Next
-    href: /1/9
-    title: "Coming soon"
-    class: "disabled"
+title: "Revival Ch.9"  
+date: 2026-02-16  
+permalink: /1/9  
+navigation:  
+  - body: Prev  
+    href: /1/6  
+  - body: First  
+    href: /1/1  
+  - body: Next  
+    href: /1/9  
+    title: "Coming soon"  
+    class: "disabled"  
 ---
 
 Joseph woke to stillness.  
@@ -159,13 +159,13 @@ Pearl pulled him into darkness between trunks.
 They kept moving—faster now, putting distance between themselves and the glow.  
 Only when Joseph couldn't have found his way back did she slow.  
 
-She stopped in a moonlit clearing and turned.   
-Joseph could see her properly now.   
+She stopped in a moonlit clearing and turned.  
+Joseph could see her properly now.  
 
 A fox.  
 
 The moon caught along the ridge of her back and the sharp line of her cheek, but the rest of her dissolved into dark.  
-She was tall compared to him—   
+She was tall compared to him—  
 but so was every other fox he'd seen.  
 
 Joseph stood there, coat clutched around himself, trembling from cold and adrenaline and the sheer strangeness of it all.  
@@ -191,7 +191,7 @@ A sign creaked.
 
 Joseph stopped in his tracks.  
 
-_Flint Water._  
+_Flint Water._    
 The place Eli had barred him from.  
 Where priests raised staves and crowds knelt.  
 
@@ -233,14 +233,14 @@ He didn't know what that said about him.
 
 Then something rose beneath it—cool and clear.  
 
-_Wait._
+_Wait._  
 
 He looked at her again.  
 Really looked.  
 
 The way she'd appeared in his tent.  
 The way she'd moved—silent, practiced.  
-The way she'd spoken: _so either you're desperate, or some part of you trusts me already._
+The way she'd spoken: _so either you're desperate, or some part of you trusts me already._  
 
 It was a good line.  
 A convincing line.  
@@ -283,7 +283,7 @@ Another step back.
 Her tail went still.  
 
 > “What do you want me to say? That I'm dangerous?”  
-> “Fine. I'm dangerous. I've been dangerous for years.”    
+> “Fine. I'm dangerous. I've been dangerous for years.”  
 > “That doesn't mean I'm lying about why I came.”  
 
 > “Then show me.”  
@@ -377,44 +377,44 @@ Cold seeping through his coat.
 Dark pressing around him.  
 If she didn't speak—if she let him walk—he was ready.  
 
-Pearl scoffed.
+Pearl scoffed.  
 
-> “This is stupid. I should never have come out here.”
+> “This is stupid. I should never have come out here.”  
 
-Joseph's next move was simple.
-He nodded, and turned around.
-Then—he started walking.
+Joseph's next move was simple.  
+He nodded, and turned around.  
+Then—he started walking.  
 
-One step.
-Two steps.
-Three steps.
+One step.  
+Two steps.  
+Three steps.  
 
-Pearl's eyes flickered disbelief.
-She turned her head away, and swallowed a faint growl.
+Pearl's eyes flickered disbelief.  
+She turned her head away, and swallowed a faint growl.  
 
 Her voice broke.  
 
-> “I'm _tired._”  
+> “I'm _tired_.”  
 
 Joseph stopped.  
-He heard it in her voice.
+He heard it in her voice.  
 For the first time that night, she wasn't a threat, a manipulator, or a practiced survivor.  
 
-She was tired.
+She was tired.  
 
 Just tired.  
 
-> “I'm tired of being **Soot,**” she whispered.  
+> “I'm tired of being **Soot**,” she whispered.  
 > “I'm tired of being the one everyone watches. The one everyone expects to fail,” her voice cracked.  
 
-> “I’m tired of fighting everyone.”   
+> “I’m tired of fighting everyone.”  
 > A swallow.  
-> “I just did something right **once**—just once.”
-> “And it burned everything I loved.”
+> “I just did something right **once**—just once.”  
+> “And it burned everything I loved.”  
 
-Joseph half turned back to her.
+Joseph half turned back to her.  
 
-**Soot.**
+**Soot**.  
 
 The name washed over him all at once.  
 Snout's voice echoed in his memory—troublemaker…  
@@ -423,29 +423,29 @@ tried to steal from Eli once.
 
 The warnings.  
 The suspicion.  
-The way Snout's whole body had tensed at the mention of her.
+The way Snout's whole body had tensed at the mention of her.  
 
-This was her.
+This was her.  
 
-This was the one they'd told him to be wary of.
+This was the one they'd told him to be wary of.  
 
 He looked at her—really looked.  
 At the wet eyes.  
 The trembling tail.  
-The way she held herself like someone braced for another blow.
+The way she held herself like someone braced for another blow.  
 
 She noticed his stillness.  
 Something flickered in her expression—fear, maybe.  
-Or resignation. Like she'd finally said too much and now the judgment would come.
+Or resignation. Like she'd finally said too much and now the judgment would come.  
 
 > “Soot,”  
-> Joseph repeated quietly.
+> Joseph repeated quietly.  
 
-She flinched.
+She flinched.  
 
 > “That's—”  
 > She started to pull back, to rebuild the walls.  
-> “I know what they say about me. If you want to leave, I—”
+> “I know what they say about me. If you want to leave, I—”  
 
 > “I'll come with you.”  
 
@@ -660,7 +660,7 @@ Something flickered in Soot's expression—recognition, maybe.
 Or kinship.  
 
 The fire popped. Its light had grown while they talked.  
-For the first time, Joseph could see her clearly—
+For the first time, Joseph could see her clearly—  
 the sharp lines of her face, the exhaustion beneath, the black fur, and her eyes.  
 
 Blue.  
@@ -700,7 +700,7 @@ He sure how.
 He didn't know what to say.  
 All he had was what he knew, so he shared it.  
 
-He told her about God.
+He told her about God.  
 The One he'd known since before he could remember.  
 The One who'd been with him in a forest when he woke up scared and alone.  
 The One who'd stayed.  
@@ -758,21 +758,21 @@ Joseph was quiet for a moment.
 
 > “For a long time I didn't,” he admitted.  
 > “But one day He showed himself to me, and He cared about me.”  
-> He met her eyes. 
+> He met her eyes.  
 > “Not just the important things—He cared about what mattered to me.”  
-> His voice softened.
+> His voice softened.  
 > “And I asked *how*… How could You?…”  
 
-Soot leaned in.
+Soot leaned in.  
 
 > “He said that—”  
 > Joseph swallowed.  
 > “He said 'I feel nothing but love for you.' ”  
 
 Soot didn’t speak.  
-The fire shifted between them.
+The fire shifted between them.  
 
-> “That’s stupid,” she whispered, yet not angry.
+> “That’s stupid,” she whispered, yet not angry.  
 
 ---  
 
@@ -789,48 +789,48 @@ About whether God cared about someone like her, someone who'd done things she co
 
 Joseph answered as best he could.  
 
-Sometimes he had words.
-Sometimes he didn't.
-Sometimes he just sat with her in the silence, letting the fire speak for them both.
+Sometimes he had words.  
+Sometimes he didn't.  
+Sometimes he just sat with her in the silence, letting the fire speak for them both.  
 
-> “I'm sorry,” Joseph said quietly.
+> “I'm sorry,” Joseph said quietly.  
 
-Soot looked up. “For what?”
+Soot looked up. “For what?”  
 
 > “For not having better answers.”  
 > He stared into the embers.  
 > “You came to me with all these questions, and I just—”  
 > He shrugged helplessly.  
 > “I don't know how to explain it right. I don't have the words most of the time.”  
-> “I just have… what I know. What I've felt.”
+> “I just have… what I know. What I've felt.”  
 
-Soot was quiet for a moment.
+Soot was quiet for a moment.  
 
-> “That's more than anyone's ever given me,” she said.
+> “That's more than anyone's ever given me,” she said.  
 
-Joseph shook his head slowly.
+Joseph shook his head slowly.  
 
 > “It doesn't feel like enough.”  
 > He pulled his coat tighter around himself.  
 > “Nothing I do feels like enough. I can't walk right. Can't carry things.”  
 > “Can't help with camp or patrols or anything that matters.”  
 > His voice dropped.  
-> “I just take. Food. Shelter. Clothes. Their time. Their patience.”
+> “I just take. Food. Shelter. Clothes. Their time. Their patience.”  
 
-Soot's brow furrowed.
+Soot's brow furrowed.  
 
-> “What are you saying?”
+> “What are you saying?”  
 
-Joseph met her eyes, and there it was—raw and unguarded.
+Joseph met her eyes, and there it was—raw and unguarded.  
 
 > “I think I'm a burden,” he admitted quietly.  
-> “To everyone who's helped me. To Eli and the others. I can't do anything but take.”
+> “To everyone who's helped me. To Eli and the others. I can't do anything but take.”  
 
-Soot stared at him.
+Soot stared at him.  
 
 > “You?”  
 > Her voice was almost incredulous.  
-> “You feel like a burden?”
+> “You feel like a burden?”  
 
 Joseph huffed a quiet laugh.  
 
@@ -856,7 +856,7 @@ Being held not because of what you've done, but because of Whose you are.
 
 Soot listened with her whole body—still, intent, like she was afraid of missing something.  
 
-When he finished, she was quiet for a long moment while she formed her next words.
+When he finished, she was quiet for a long moment while she formed her next words.  
 
 > “I still don't understand,” she whispered.  
 > “How can someone just—”  
@@ -952,4 +952,4 @@ Then she nodded once, sharply.
 > “Go,” she said.  
 > “Before you're caught.”  
 
-Joseph ran down the street as best as his little paws could carry.
+Joseph ran down the street as best as his little paws could carry.  
