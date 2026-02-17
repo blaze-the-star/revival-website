@@ -4,7 +4,7 @@ date: 2026-02-16
 permalink: /1/9  
 navigation:  
   - body: Prev  
-    href: /1/6  
+    href: /1/8  
   - body: First  
     href: /1/1  
   - body: Next  
@@ -12,7 +12,6 @@ navigation:
     title: "Coming soon"  
     class: "disabled"  
 ---
-
 Joseph woke to stillness.  
 
 Not the ordinary stillness of late night.  
