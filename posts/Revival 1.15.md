@@ -1,7 +1,7 @@
 ---
-title: "Revival Ch.9"  
-date: 2026-02-16  
-permalink: /1/9  
+title: "Revival Ch.15"  
+date: 2026-02-20  
+permalink: /1/15  
 navigation:  
   - body: Prev  
     href: /1/9  
