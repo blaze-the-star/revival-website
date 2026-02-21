@@ -530,16 +530,21 @@ She looked at him.
 
 > “How?”  
 
-> “Because you fought it.”  
-> His voice was gentle.  
-> “Every step back I took, you fought giving me something real. Until you couldn't anymore.”  
+> “Because it costed you,” his voice gentle.  
+> “You didn't have to give me your _real_ name, but you did.”  
+
+Joseph shifted.
+
+> “And I imagine _Pearl_ carries less negative connotations then _Soot_.”  
 
 Soot held his gaze for a long moment.  
 Then she looked away.  
 
 > “Yeah,” she breathed.  
 > “That's—”  
-> A rough exhale that might have been a laugh.  
+
+A rough exhale escaped that might have been a laugh.  
+
 > “Yeah.”  
 
 The fire crackled.  
@@ -550,8 +555,12 @@ Soot's voice came quieter now.
 
 > “I’ve kept my walls up so long I forgot what it feels like to put ’em down.”  
 
-> Her tail curled around her paws.  
-> “And now they're down and I just feel—” She shook her head.  
+Her tail curled around her paws.  
+
+> “And now they're down and I just feel—”
+
+She shook her head.  
+
 > “Empty. Like there's nothing underneath.”  
 
 Joseph shifted on the pallet, wincing as his stiff muscles protested.  

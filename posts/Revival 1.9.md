@@ -8,9 +8,7 @@ navigation:
   - body: First  
     href: /1/1  
   - body: Next  
-    href: /1/9  
-    title: "Coming soon"  
-    class: "disabled"  
+    href: /1/15
 ---
 Joseph woke to stillness.  
 
