@@ -529,3 +529,38 @@ Home.
 The word lodged somewhere deep in Joseph’s chest—strange, unwelcome, and yearning all at once.  
   
 And with that, Joseph stepped—shaking, bewildered—into a life that had already begun moving around him.
+
+---
+
+## Questions for Reflection
+
+As you finish this chapter, here are some questions to ponder:
+
+1. **Joseph's reaction to his transformation is surprisingly calm at first—even delighted when he pokes his ear. What does this tell us about his character? How might you have reacted in his place?**
+
+2. **Eli seems to recognize something in Joseph immediately, responding with understanding rather than skepticism. What do you think Eli knows? Why might he treat Joseph differently than the others do?**
+
+3. **Joseph struggles with accepting help, feeling like he's "imposing" and doesn't deserve their resources. Where do you think this guilt comes from? Have you ever felt this way when others offered you help?**
+
+---
+
+## Share Your Thoughts
+
+I'd love to hear your reactions, theories, and questions about this chapter! Leave a comment below—you can share anonymously or include your name if you'd like.
+
+<script src="https://giscus.app/client.js"
+        data-repo="blaze-the-star/revival-website"
+        data-repo-id="R_kgDOQjkAIg"
+        data-category="General"
+        data-category-id="DIC_kwDOQjkAIs4C35zJ"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
