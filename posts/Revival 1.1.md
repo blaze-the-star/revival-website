@@ -558,7 +558,7 @@ I'd love to hear your reactions, theories, and questions about this chapter! Lea
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="light"
+        data-theme="dark"
         data-lang="en"
         data-loading="lazy"
         crossorigin="anonymous"
